@@ -1,0 +1,24 @@
+name: Update Scholar Data
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch SerpAPI data
+        run: |
+          curl "https://serpapi.com/search.json?engine=google_scholar_author&author_id=${{ secrets.SCHOLAR_ID }}&api_key=${{ secrets.SERPAPI_KEY }}" -o data.json
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Update scholar data"
+          git push
