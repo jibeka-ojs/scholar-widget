@@ -14,14 +14,12 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Fetch SerpAPI data
-              timeout-minutes: 2
-              run: |
-                curl --max-time 30 --fail \
-                  "https://serpapi.com/search.json?engine=google_scholar_author&author_id=${{ secrets.SCHOLAR_ID }}&api_key=${{ secrets.SERPAPI_KEY }}" \
-                  -o data.json
-                echo "Berhasil! Isi data.json:"
-                cat data.json | head -c 500
-          
+        timeout-minutes: 2
+        run: |
+          curl --max-time 30 --fail "https://serpapi.com/search.json?engine=google_scholar_author&author_id=${{ secrets.SCHOLAR_ID }}&api_key=${{ secrets.SERPAPI_KEY }}" -o data.json
+          echo "Sukses! Preview:"
+          cat data.json | head -c 300
+
       - name: Commit and push
         run: |
           git config user.name "github-actions"
