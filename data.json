@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69e47c4702706a2457fe2995",
+    "id": "69e5d65aa204ab9afb7b2111",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e47c4702706a2457fe2995.json",
-    "created_at": "2026-04-19 06:55:03 UTC",
-    "processed_at": "2026-04-19 06:55:03 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e5d65aa204ab9afb7b2111.json",
+    "created_at": "2026-04-20 07:31:38 UTC",
+    "processed_at": "2026-04-20 07:31:38 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e47c4702706a2457fe2995.html",
-    "total_time_taken": 1.13
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e5d65aa204ab9afb7b2111.html",
+    "total_time_taken": 0.98
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -205,7 +205,7 @@
       "authors": "PG Sina",
       "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
       "cited_by": {
-        "value": 156,
+        "value": 157,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
         "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
         "cites_id": "9801215156894747969"
@@ -261,7 +261,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 127,
+        "value": 128,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8214,
-          "since_2021": 6451
+          "all": 8220,
+          "since_2021": 6457
         }
       },
       {
@@ -381,7 +381,7 @@
       },
       {
         "year": 2023,
-        "citations": 1600
+        "citations": 1601
       },
       {
         "year": 2024,
@@ -393,7 +393,7 @@
       },
       {
         "year": 2026,
-        "citations": 191
+        "citations": 196
       }
     ]
   },
