@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69e9c70d7d6e701eb3c73416",
+    "id": "69eb198ed3c51264721c3f8d",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e9c70d7d6e701eb3c73416.json",
-    "created_at": "2026-04-23 07:15:25 UTC",
-    "processed_at": "2026-04-23 07:15:25 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69eb198ed3c51264721c3f8d.json",
+    "created_at": "2026-04-24 07:19:42 UTC",
+    "processed_at": "2026-04-24 07:19:42 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69e9c70d7d6e701eb3c73416.html",
-    "total_time_taken": 1.95
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69eb198ed3c51264721c3f8d.html",
+    "total_time_taken": 1.63
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1100,
+        "value": 1101,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 521,
+        "value": 522,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 227,
+        "value": 228,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -261,7 +261,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8223,
-          "since_2021": 6459
+          "all": 8227,
+          "since_2021": 6462
         }
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "year": 2020,
-        "citations": 624
+        "citations": 625
       },
       {
         "year": 2021,
@@ -377,7 +377,7 @@
       },
       {
         "year": 2022,
-        "citations": 1319
+        "citations": 1321
       },
       {
         "year": 2023,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1308
+        "citations": 1306
       },
       {
         "year": 2025,
-        "citations": 1143
+        "citations": 1145
       },
       {
         "year": 2026,
-        "citations": 194
+        "citations": 195
       }
     ]
   },
