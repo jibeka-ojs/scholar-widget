@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69ef2d27a3f730770f2d2672",
+    "id": "69f07fda71b49290499148bb",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69ef2d27a3f730770f2d2672.json",
-    "created_at": "2026-04-27 09:32:23 UTC",
-    "processed_at": "2026-04-27 09:32:23 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f07fda71b49290499148bb.json",
+    "created_at": "2026-04-28 09:37:30 UTC",
+    "processed_at": "2026-04-28 09:37:30 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69ef2d27a3f730770f2d2672.html",
-    "total_time_taken": 1.04
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f07fda71b49290499148bb.html",
+    "total_time_taken": 1.41
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -93,7 +93,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 267,
+        "value": 268,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 227,
+        "value": 228,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8235,
-          "since_2021": 6469
+          "all": 8241,
+          "since_2021": 6476
         }
       },
       {
@@ -369,11 +369,11 @@
       },
       {
         "year": 2020,
-        "citations": 626
+        "citations": 625
       },
       {
         "year": 2021,
-        "citations": 880
+        "citations": 881
       },
       {
         "year": 2022,
@@ -381,19 +381,19 @@
       },
       {
         "year": 2023,
-        "citations": 1603
+        "citations": 1604
       },
       {
         "year": 2024,
-        "citations": 1305
+        "citations": 1306
       },
       {
         "year": 2025,
-        "citations": 1146
+        "citations": 1147
       },
       {
         "year": 2026,
-        "citations": 202
+        "citations": 205
       }
     ]
   },
