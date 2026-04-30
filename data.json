@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69f1ce130e4be07abbdb1c50",
+    "id": "69f3201ad868dd17f3df3e5e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f1ce130e4be07abbdb1c50.json",
-    "created_at": "2026-04-29 09:23:31 UTC",
-    "processed_at": "2026-04-29 09:23:31 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f3201ad868dd17f3df3e5e.json",
+    "created_at": "2026-04-30 09:25:46 UTC",
+    "processed_at": "2026-04-30 09:25:46 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f1ce130e4be07abbdb1c50.html",
-    "total_time_taken": 2.23
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f3201ad868dd17f3df3e5e.html",
+    "total_time_taken": 0.36
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -426,15 +426,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yCUmstgAAAAJ&citpid=3"
     },
     {
-      "name": "Theresia Pradiani",
-      "link": "https://scholar.google.com/citations?user=ce0Y2tMAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ce0Y2tMAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ce0Y2tMAAAAJ",
-      "affiliations": "Institut Teknologi Dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ce0Y2tMAAAAJ&citpid=1"
-    },
-    {
       "name": "Dwiyani Sudaryanti",
       "link": "https://scholar.google.com/citations?user=nEzk69AAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=nEzk69AAAAAJ&engine=google_scholar_author&hl=en",
@@ -577,6 +568,15 @@
       "affiliations": "Politeknik STIA LAN Bandung",
       "email": "Verified email at poltek.stialanbandung.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
+    },
+    {
+      "name": "Retno Wulandari",
+      "link": "https://scholar.google.com/citations?user=BptC9YsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=BptC9YsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "BptC9YsAAAAJ",
+      "affiliations": "Universitas Negeri Malang",
+      "email": "Verified email at um.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BptC9YsAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
