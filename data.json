@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69f3201ad868dd17f3df3e5e",
+    "id": "69f4648171a90daca41d0dce",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f3201ad868dd17f3df3e5e.json",
-    "created_at": "2026-04-30 09:25:46 UTC",
-    "processed_at": "2026-04-30 09:25:46 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f4648171a90daca41d0dce.json",
+    "created_at": "2026-05-01 08:29:53 UTC",
+    "processed_at": "2026-05-01 08:29:53 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f3201ad868dd17f3df3e5e.html",
-    "total_time_taken": 0.36
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69f4648171a90daca41d0dce.html",
+    "total_time_taken": 0.49
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1102,
+        "value": 1103,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -93,7 +93,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 268,
+        "value": 267,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -163,7 +163,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 191,
+        "value": 190,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -219,7 +219,7 @@
       "authors": "UY Asepta, SHP Maruno",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
       "cited_by": {
-        "value": 152,
+        "value": 153,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
         "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
         "cites_id": "10717646792287894255"
@@ -233,7 +233,7 @@
       "authors": "E Christianto",
       "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
       "cited_by": {
-        "value": 152,
+        "value": 153,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
         "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
         "cites_id": "18207829009503242971"
@@ -330,7 +330,7 @@
       {
         "citations": {
           "all": 8246,
-          "since_2021": 6481
+          "since_2021": 6484
         }
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "year": 2020,
-        "citations": 624
+        "citations": 622
       },
       {
         "year": 2021,
@@ -377,15 +377,15 @@
       },
       {
         "year": 2022,
-        "citations": 1321
+        "citations": 1322
       },
       {
         "year": 2023,
-        "citations": 1604
+        "citations": 1601
       },
       {
         "year": 2024,
-        "citations": 1307
+        "citations": 1310
       },
       {
         "year": 2025,
@@ -393,7 +393,7 @@
       },
       {
         "year": 2026,
-        "citations": 209
+        "citations": 212
       }
     ]
   },
@@ -552,15 +552,6 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Mega Mirasaputri Cahyanti",
-      "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "OQYeShEAAAAJ",
-      "affiliations": "STIE ASIA MALANG",
-      "email": "Verified email at stieasia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OQYeShEAAAAJ&citpid=4"
-    },
-    {
       "name": "Hafid Aditya Pradesa",
       "link": "https://scholar.google.com/citations?user=dAWw7mQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=dAWw7mQAAAAJ&engine=google_scholar_author&hl=en",
@@ -568,6 +559,15 @@
       "affiliations": "Politeknik STIA LAN Bandung",
       "email": "Verified email at poltek.stialanbandung.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
+    },
+    {
+      "name": "Mega Mirasaputri Cahyanti",
+      "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "OQYeShEAAAAJ",
+      "affiliations": "STIE ASIA MALANG",
+      "email": "Verified email at stieasia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OQYeShEAAAAJ&citpid=4"
     },
     {
       "name": "Retno Wulandari",
