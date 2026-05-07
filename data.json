@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69fb0c0dd3982cba9a40d428",
+    "id": "69fc64dc8c60cab061fb4b55",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69fb0c0dd3982cba9a40d428.json",
-    "created_at": "2026-05-06 09:38:21 UTC",
-    "processed_at": "2026-05-06 09:38:21 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69fc64dc8c60cab061fb4b55.json",
+    "created_at": "2026-05-07 10:09:32 UTC",
+    "processed_at": "2026-05-07 10:09:32 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69fb0c0dd3982cba9a40d428.html",
-    "total_time_taken": 0.93
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/69fc64dc8c60cab061fb4b55.html",
+    "total_time_taken": 0.72
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -79,7 +79,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 301,
+        "value": 302,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8262,
-          "since_2021": 6498
+          "all": 8265,
+          "since_2021": 6502
         }
       },
       {
@@ -361,7 +361,7 @@
       },
       {
         "year": 2018,
-        "citations": 251
+        "citations": 252
       },
       {
         "year": 2019,
@@ -369,11 +369,11 @@
       },
       {
         "year": 2020,
-        "citations": 625
+        "citations": 624
       },
       {
         "year": 2021,
-        "citations": 881
+        "citations": 882
       },
       {
         "year": 2022,
@@ -393,7 +393,7 @@
       },
       {
         "year": 2026,
-        "citations": 223
+        "citations": 226
       }
     ]
   },
@@ -522,7 +522,7 @@
       "author_id": "iprgtdgAAAAJ",
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iprgtdgAAAAJ&citpid=9"
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iprgtdgAAAAJ&citpid=10"
     },
     {
       "name": "Ahmad Nizar Yogatama",
