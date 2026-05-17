@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a07f366421b08c11a13ea13",
+    "id": "6a094a5b7af8998afeb61a02",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a07f366421b08c11a13ea13.json",
-    "created_at": "2026-05-16 04:32:38 UTC",
-    "processed_at": "2026-05-16 04:32:38 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a094a5b7af8998afeb61a02.json",
+    "created_at": "2026-05-17 04:55:56 UTC",
+    "processed_at": "2026-05-17 04:55:56 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a07f366421b08c11a13ea13.html",
-    "total_time_taken": 0.52
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a094a5b7af8998afeb61a02.html",
+    "total_time_taken": 1.26
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -135,7 +135,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 215,
+        "value": 216,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -177,7 +177,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (1), 64-70, 2017",
       "cited_by": {
-        "value": 182,
+        "value": 183,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4137664591509643123",
         "serpapi_link": "https://serpapi.com/search.json?cites=4137664591509643123&engine=google_scholar&hl=en",
         "cites_id": "4137664591509643123"
@@ -261,7 +261,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8296,
-          "since_2021": 6531
+          "all": 8305,
+          "since_2021": 6540
         }
       },
       {
@@ -365,11 +365,11 @@
       },
       {
         "year": 2019,
-        "citations": 451
+        "citations": 452
       },
       {
         "year": 2020,
-        "citations": 626
+        "citations": 625
       },
       {
         "year": 2021,
@@ -377,7 +377,7 @@
       },
       {
         "year": 2022,
-        "citations": 1322
+        "citations": 1323
       },
       {
         "year": 2023,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1314
+        "citations": 1316
       },
       {
         "year": 2025,
-        "citations": 1154
+        "citations": 1153
       },
       {
         "year": 2026,
-        "citations": 245
+        "citations": 252
       }
     ]
   },
