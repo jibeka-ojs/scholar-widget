@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a0a9f6dd1a72bf09800fe92",
+    "id": "6a0befd877e3d9b73da57064",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0a9f6dd1a72bf09800fe92.json",
-    "created_at": "2026-05-18 05:11:09 UTC",
-    "processed_at": "2026-05-18 05:11:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0befd877e3d9b73da57064.json",
+    "created_at": "2026-05-19 05:06:32 UTC",
+    "processed_at": "2026-05-19 05:06:32 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0a9f6dd1a72bf09800fe92.html",
-    "total_time_taken": 2.62
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0befd877e3d9b73da57064.html",
+    "total_time_taken": 1.67
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1107,
+        "value": 1109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 231,
+        "value": 230,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -255,6 +255,20 @@
       "year": "2019"
     },
     {
+      "title": "ANALISIS PREDIKSI KONDISI FINANCIAL DISTRESS MENGGUNAKAN RASIO LIKUIDITAS, PROFITABILITAS, FINANCIAL LEVERAGE DAN ARUS KAS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:1qzjygNMrQYC",
+      "citation_id": "dRFYT7EAAAAJ:1qzjygNMrQYC",
+      "authors": "D Sudaryanti, A Dinar",
+      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
+      "cited_by": {
+        "value": 128,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
+        "cites_id": "17494845482582586530"
+      },
+      "year": "2019"
+    },
+    {
       "title": "Pengaruh Kompensasi dan Disiplin Kerja Terhadap Kinerja Karyawan Bagian Produksi PG. Meritjan Kediri.",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:roLk4NBRz8UC",
       "citation_id": "dRFYT7EAAAAJ:roLk4NBRz8UC",
@@ -267,20 +281,6 @@
         "cites_id": "5724515366181962796"
       },
       "year": "2017"
-    },
-    {
-      "title": "ANALISIS PREDIKSI KONDISI FINANCIAL DISTRESS MENGGUNAKAN RASIO LIKUIDITAS, PROFITABILITAS, FINANCIAL LEVERAGE DAN ARUS KAS",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:1qzjygNMrQYC",
-      "citation_id": "dRFYT7EAAAAJ:1qzjygNMrQYC",
-      "authors": "D Sudaryanti, A Dinar",
-      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
-      "cited_by": {
-        "value": 127,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
-        "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
-        "cites_id": "17494845482582586530"
-      },
-      "year": "2019"
     },
     {
       "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8312,
-          "since_2021": 6548
+          "all": 8316,
+          "since_2021": 6551
         }
       },
       {
@@ -377,11 +377,11 @@
       },
       {
         "year": 2022,
-        "citations": 1322
+        "citations": 1323
       },
       {
         "year": 2023,
-        "citations": 1598
+        "citations": 1597
       },
       {
         "year": 2024,
@@ -389,11 +389,11 @@
       },
       {
         "year": 2025,
-        "citations": 1156
+        "citations": 1158
       },
       {
         "year": 2026,
-        "citations": 253
+        "citations": 254
       }
     ]
   },
