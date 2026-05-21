@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a0d4200e6cb3000a6aa86e0",
+    "id": "6a0e945be3e1764db5984afc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0d4200e6cb3000a6aa86e0.json",
-    "created_at": "2026-05-20 05:09:20 UTC",
-    "processed_at": "2026-05-20 05:09:20 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0e945be3e1764db5984afc.json",
+    "created_at": "2026-05-21 05:12:59 UTC",
+    "processed_at": "2026-05-21 05:12:59 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0d4200e6cb3000a6aa86e0.html",
-    "total_time_taken": 1.23
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a0e945be3e1764db5984afc.html",
+    "total_time_taken": 0.77
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1109,
+        "value": 1108,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -135,7 +135,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 216,
+        "value": 217,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8316,
-          "since_2021": 6551
+          "all": 8315,
+          "since_2021": 6552
         }
       },
       {
@@ -361,7 +361,7 @@
       },
       {
         "year": 2018,
-        "citations": 250
+        "citations": 248
       },
       {
         "year": 2019,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1319
+        "citations": 1318
       },
       {
         "year": 2025,
-        "citations": 1158
+        "citations": 1161
       },
       {
         "year": 2026,
-        "citations": 254
+        "citations": 253
       }
     ]
   },
