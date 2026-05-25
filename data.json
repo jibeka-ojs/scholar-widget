@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a12873ca89e0211bba909bf",
+    "id": "6a13dd180a9156c32b011852",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a12873ca89e0211bba909bf.json",
-    "created_at": "2026-05-24 05:06:04 UTC",
-    "processed_at": "2026-05-24 05:06:04 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a13dd180a9156c32b011852.json",
+    "created_at": "2026-05-25 05:24:40 UTC",
+    "processed_at": "2026-05-25 05:24:40 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a12873ca89e0211bba909bf.html",
-    "total_time_taken": 2.14
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a13dd180a9156c32b011852.html",
+    "total_time_taken": 0.42
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -261,7 +261,7 @@
       "authors": "D Sudaryanti, A Dinar",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
         "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
         "cites_id": "17494845482582586530"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8329,
-          "since_2021": 6566
+          "all": 8330,
+          "since_2021": 6567
         }
       },
       {
@@ -349,7 +349,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 40
+        "citations": 41
       },
       {
         "year": 2016,
@@ -357,43 +357,43 @@
       },
       {
         "year": 2017,
-        "citations": 145
+        "citations": 143
       },
       {
         "year": 2018,
-        "citations": 248
+        "citations": 249
       },
       {
         "year": 2019,
-        "citations": 451
+        "citations": 449
       },
       {
         "year": 2020,
-        "citations": 625
+        "citations": 627
       },
       {
         "year": 2021,
-        "citations": 889
+        "citations": 892
       },
       {
         "year": 2022,
-        "citations": 1324
+        "citations": 1322
       },
       {
         "year": 2023,
-        "citations": 1599
+        "citations": 1600
       },
       {
         "year": 2024,
-        "citations": 1318
+        "citations": 1315
       },
       {
         "year": 2025,
-        "citations": 1161
+        "citations": 1160
       },
       {
         "year": 2026,
-        "citations": 262
+        "citations": 266
       }
     ]
   },
