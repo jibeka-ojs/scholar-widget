@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a152aa16c4c0ca3b71acca1",
+    "id": "6a167f8a3a920644e72f1df8",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a152aa16c4c0ca3b71acca1.json",
-    "created_at": "2026-05-26 05:07:45 UTC",
-    "processed_at": "2026-05-26 05:07:45 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a167f8a3a920644e72f1df8.json",
+    "created_at": "2026-05-27 05:22:18 UTC",
+    "processed_at": "2026-05-27 05:22:18 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a152aa16c4c0ca3b71acca1.html",
-    "total_time_taken": 1.79
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a167f8a3a920644e72f1df8.html",
+    "total_time_taken": 8.52
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1108,
+        "value": 1109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -191,7 +191,7 @@
       "authors": "AS Susanto",
       "publication": "Jurnal Jibeka 7 (2), 1-6, 2013",
       "cited_by": {
-        "value": 160,
+        "value": 162,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072231077206912035",
         "serpapi_link": "https://serpapi.com/search.json?cites=17072231077206912035&engine=google_scholar&hl=en",
         "cites_id": "17072231077206912035"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8330,
-          "since_2021": 6567
+          "all": 8333,
+          "since_2021": 6577
         }
       },
       {
@@ -369,15 +369,15 @@
       },
       {
         "year": 2020,
-        "citations": 627
+        "citations": 628
       },
       {
         "year": 2021,
-        "citations": 892
+        "citations": 897
       },
       {
         "year": 2022,
-        "citations": 1322
+        "citations": 1325
       },
       {
         "year": 2023,
@@ -385,7 +385,7 @@
       },
       {
         "year": 2024,
-        "citations": 1315
+        "citations": 1314
       },
       {
         "year": 2025,
@@ -393,7 +393,7 @@
       },
       {
         "year": 2026,
-        "citations": 266
+        "citations": 269
       }
     ]
   },
