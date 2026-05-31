@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a1a6dbb99d5f4e6291fff7c",
+    "id": "6a1bc5a950d43e36544feda1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1a6dbb99d5f4e6291fff7c.json",
-    "created_at": "2026-05-30 04:55:23 UTC",
-    "processed_at": "2026-05-30 04:55:23 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1bc5a950d43e36544feda1.json",
+    "created_at": "2026-05-31 05:22:49 UTC",
+    "processed_at": "2026-05-31 05:22:49 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1a6dbb99d5f4e6291fff7c.html",
-    "total_time_taken": 0.47
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1bc5a950d43e36544feda1.html",
+    "total_time_taken": 2.99
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1110,
+        "value": 1114,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -107,7 +107,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 250,
+        "value": 252,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 231,
+        "value": 233,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -163,7 +163,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 191,
+        "value": 192,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -275,7 +275,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8343,
-          "since_2021": 6586
+          "all": 8354,
+          "since_2021": 6595
         }
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "year": 2020,
-        "citations": 626
+        "citations": 628
       },
       {
         "year": 2021,
@@ -377,23 +377,23 @@
       },
       {
         "year": 2022,
-        "citations": 1330
+        "citations": 1331
       },
       {
         "year": 2023,
-        "citations": 1603
+        "citations": 1604
       },
       {
         "year": 2024,
-        "citations": 1317
+        "citations": 1319
       },
       {
         "year": 2025,
-        "citations": 1159
+        "citations": 1161
       },
       {
         "year": 2026,
-        "citations": 270
+        "citations": 273
       }
     ]
   },
