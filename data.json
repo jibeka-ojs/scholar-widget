@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a1d21fc86818070eae09ce3",
+    "id": "6a1e700a1fad36742c53e7c9",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1d21fc86818070eae09ce3.json",
-    "created_at": "2026-06-01 06:09:00 UTC",
-    "processed_at": "2026-06-01 06:09:00 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1e700a1fad36742c53e7c9.json",
+    "created_at": "2026-06-02 05:54:18 UTC",
+    "processed_at": "2026-06-02 05:54:18 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1d21fc86818070eae09ce3.html",
-    "total_time_taken": 1.75
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1e700a1fad36742c53e7c9.html",
+    "total_time_taken": 0.67
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 526,
+        "value": 528,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -205,7 +205,7 @@
       "authors": "PG Sina",
       "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
       "cited_by": {
-        "value": 158,
+        "value": 159,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
         "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
         "cites_id": "9801215156894747969"
@@ -233,7 +233,7 @@
       "authors": "E Christianto",
       "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
       "cited_by": {
-        "value": 153,
+        "value": 154,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
         "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
         "cites_id": "18207829009503242971"
@@ -261,7 +261,7 @@
       "authors": "D Sudaryanti, A Dinar",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
       "cited_by": {
-        "value": 129,
+        "value": 130,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
         "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
         "cites_id": "17494845482582586530"
@@ -329,20 +329,20 @@
     "table": [
       {
         "citations": {
-          "all": 8354,
-          "since_2021": 6595
+          "all": 8360,
+          "since_2021": 6601
         }
       },
       {
         "h_index": {
           "all": 43,
-          "since_2021": 39
+          "since_2021": 40
         }
       },
       {
         "i10_index": {
           "all": 116,
-          "since_2021": 97
+          "since_2021": 98
         }
       }
     ],
@@ -381,19 +381,19 @@
       },
       {
         "year": 2023,
-        "citations": 1604
+        "citations": 1602
       },
       {
         "year": 2024,
-        "citations": 1319
+        "citations": 1318
       },
       {
         "year": 2025,
-        "citations": 1161
+        "citations": 1166
       },
       {
         "year": 2026,
-        "citations": 273
+        "citations": 278
       }
     ]
   },
@@ -534,6 +534,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
     },
     {
+      "name": "Mega Mirasaputri Cahyanti",
+      "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "OQYeShEAAAAJ",
+      "affiliations": "STIE ASIA MALANG",
+      "email": "Verified email at stieasia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OQYeShEAAAAJ&citpid=4"
+    },
+    {
       "name": "Yunus Handoko",
       "link": "https://scholar.google.com/citations?user=_v0H65wAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=_v0H65wAAAAJ&engine=google_scholar_author&hl=en",
@@ -561,22 +570,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
     },
     {
-      "name": "Mega Mirasaputri Cahyanti",
-      "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "OQYeShEAAAAJ",
-      "affiliations": "STIE ASIA MALANG",
-      "email": "Verified email at stieasia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OQYeShEAAAAJ&citpid=4"
-    },
-    {
-      "name": "Retno Wulandari",
-      "link": "https://scholar.google.com/citations?user=BptC9YsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=BptC9YsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "BptC9YsAAAAJ",
-      "affiliations": "Universitas Negeri Malang",
-      "email": "Verified email at um.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BptC9YsAAAAJ&citpid=1"
+      "name": "wiwin purnomowati",
+      "link": "https://scholar.google.com/citations?user=JymEcoIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=JymEcoIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "JymEcoIAAAAJ",
+      "affiliations": "Universitas Widya Gama",
+      "email": "Verified email at widyagama.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JymEcoIAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
