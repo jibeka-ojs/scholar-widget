@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a1fc4db5fda0bcae7fea85e",
+    "id": "6a21146b05bb593ad3ff1f17",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1fc4db5fda0bcae7fea85e.json",
-    "created_at": "2026-06-03 06:08:27 UTC",
-    "processed_at": "2026-06-03 06:08:27 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a21146b05bb593ad3ff1f17.json",
+    "created_at": "2026-06-04 06:00:11 UTC",
+    "processed_at": "2026-06-04 06:00:11 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a1fc4db5fda0bcae7fea85e.html",
-    "total_time_taken": 1.33
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a21146b05bb593ad3ff1f17.html",
+    "total_time_taken": 1.67
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -365,15 +365,15 @@
       },
       {
         "year": 2019,
-        "citations": 451
+        "citations": 452
       },
       {
         "year": 2020,
-        "citations": 628
+        "citations": 627
       },
       {
         "year": 2021,
-        "citations": 894
+        "citations": 895
       },
       {
         "year": 2022,
@@ -389,7 +389,7 @@
       },
       {
         "year": 2025,
-        "citations": 1166
+        "citations": 1165
       },
       {
         "year": 2026,
