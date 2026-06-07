@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a23a8fcef15ce2295c1a0c4",
+    "id": "6a250505a39c28b1dda4b06e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a23a8fcef15ce2295c1a0c4.json",
-    "created_at": "2026-06-06 04:58:36 UTC",
-    "processed_at": "2026-06-06 04:58:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a250505a39c28b1dda4b06e.json",
+    "created_at": "2026-06-07 05:43:33 UTC",
+    "processed_at": "2026-06-07 05:43:33 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a23a8fcef15ce2295c1a0c4.html",
-    "total_time_taken": 0.67
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a250505a39c28b1dda4b06e.html",
+    "total_time_taken": 3.0
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1118,
+        "value": 1120,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 529,
+        "value": 530,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 235,
+        "value": 234,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -135,7 +135,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 218,
+        "value": 217,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8381,
-          "since_2021": 6612
+          "all": 8386,
+          "since_2021": 6616
         }
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "year": 2020,
-        "citations": 627
+        "citations": 628
       },
       {
         "year": 2021,
@@ -381,19 +381,19 @@
       },
       {
         "year": 2023,
-        "citations": 1603
+        "citations": 1606
       },
       {
         "year": 2024,
-        "citations": 1318
+        "citations": 1317
       },
       {
         "year": 2025,
-        "citations": 1171
+        "citations": 1169
       },
       {
         "year": 2026,
-        "citations": 283
+        "citations": 287
       }
     ]
   },
