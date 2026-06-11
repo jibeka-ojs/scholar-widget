@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a28f4e331a601ea1733c751",
+    "id": "6a2a4e1995a694ce0d478880",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a28f4e331a601ea1733c751.json",
-    "created_at": "2026-06-10 05:23:47 UTC",
-    "processed_at": "2026-06-10 05:23:47 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2a4e1995a694ce0d478880.json",
+    "created_at": "2026-06-11 05:56:41 UTC",
+    "processed_at": "2026-06-11 05:56:41 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a28f4e331a601ea1733c751.html",
-    "total_time_taken": 0.57
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2a4e1995a694ce0d478880.html",
+    "total_time_taken": 0.4
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1121,
+        "value": 1119,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 530,
+        "value": 529,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -143,6 +143,20 @@
       "year": "2016"
     },
     {
+      "title": "Pengaruh pelatihan dan pembinaan terhadap pengembangan usaha kecil",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:kRWSkSYxWN8C",
+      "citation_id": "dRFYT7EAAAAJ:kRWSkSYxWN8C",
+      "authors": "R Irawati",
+      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
+      "cited_by": {
+        "value": 194,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
+        "cites_id": "16327503241928996900"
+      },
+      "year": "2018"
+    },
+    {
       "title": "Implementasi pencatatan keuangan pada usaha kecil dan menengah: Studi pada sentra industri kripik tempe sanan di kota Malang",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:L8Ckcad2t8MC",
       "citation_id": "dRFYT7EAAAAJ:L8Ckcad2t8MC",
@@ -153,20 +167,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453168640401033223",
         "serpapi_link": "https://serpapi.com/search.json?cites=16453168640401033223&engine=google_scholar&hl=en",
         "cites_id": "16453168640401033223"
-      },
-      "year": "2018"
-    },
-    {
-      "title": "Pengaruh pelatihan dan pembinaan terhadap pengembangan usaha kecil",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:kRWSkSYxWN8C",
-      "citation_id": "dRFYT7EAAAAJ:kRWSkSYxWN8C",
-      "authors": "R Irawati",
-      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
-      "cited_by": {
-        "value": 193,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
-        "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
-        "cites_id": "16327503241928996900"
       },
       "year": "2018"
     },
@@ -247,7 +247,7 @@
       "authors": "ED Santoso, N Larasati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 28-36, 2019",
       "cited_by": {
-        "value": 135,
+        "value": 136,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3864259127795358248",
         "serpapi_link": "https://serpapi.com/search.json?cites=3864259127795358248&engine=google_scholar&hl=en",
         "cites_id": "3864259127795358248"
@@ -275,7 +275,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 130,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -329,7 +329,7 @@
     "table": [
       {
         "citations": {
-          "all": 8398,
+          "all": 8394,
           "since_2021": 6627
         }
       },
@@ -342,14 +342,14 @@
       {
         "i10_index": {
           "all": 117,
-          "since_2021": 98
+          "since_2021": 99
         }
       }
     ],
     "graph": [
       {
         "year": 2015,
-        "citations": 40
+        "citations": 41
       },
       {
         "year": 2016,
@@ -357,27 +357,27 @@
       },
       {
         "year": 2017,
-        "citations": 148
+        "citations": 144
       },
       {
         "year": 2018,
-        "citations": 247
+        "citations": 249
       },
       {
         "year": 2019,
-        "citations": 453
+        "citations": 448
       },
       {
         "year": 2020,
-        "citations": 629
+        "citations": 630
       },
       {
         "year": 2021,
-        "citations": 892
+        "citations": 895
       },
       {
         "year": 2022,
-        "citations": 1333
+        "citations": 1330
       },
       {
         "year": 2023,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1318
+        "citations": 1317
       },
       {
         "year": 2025,
-        "citations": 1173
+        "citations": 1171
       },
       {
         "year": 2026,
-        "citations": 293
+        "citations": 296
       }
     ]
   },
@@ -570,13 +570,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
     },
     {
-      "name": "wiwin purnomowati",
-      "link": "https://scholar.google.com/citations?user=JymEcoIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=JymEcoIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "JymEcoIAAAAJ",
-      "affiliations": "Universitas Widya Gama",
-      "email": "Verified email at widyagama.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JymEcoIAAAAJ&citpid=1"
+      "name": "Retno Wulandari",
+      "link": "https://scholar.google.com/citations?user=BptC9YsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=BptC9YsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "BptC9YsAAAAJ",
+      "affiliations": "Universitas Negeri Malang",
+      "email": "Verified email at um.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BptC9YsAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
