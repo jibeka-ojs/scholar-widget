@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a2b9ef8dd2e16b291f1784c",
+    "id": "6a2ce977054e5fbfa020daa9",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2b9ef8dd2e16b291f1784c.json",
-    "created_at": "2026-06-12 05:54:00 UTC",
-    "processed_at": "2026-06-12 05:54:00 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2ce977054e5fbfa020daa9.json",
+    "created_at": "2026-06-13 05:24:07 UTC",
+    "processed_at": "2026-06-13 05:24:07 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2b9ef8dd2e16b291f1784c.html",
-    "total_time_taken": 0.46
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2ce977054e5fbfa020daa9.html",
+    "total_time_taken": 0.22
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1123,
+        "value": 1126,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 529,
+        "value": 530,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -311,26 +311,26 @@
       "year": "2017"
     },
     {
-      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
-      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
-      "authors": "RK Shaputra",
-      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
+      "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
+      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
         "value": 110,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
-        "cites_id": "9852645422292531537"
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
+        "cites_id": "2353733042313564197"
       },
-      "year": "2013"
+      "year": "2020"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8409,
-          "since_2021": 6642
+          "all": 8418,
+          "since_2021": 6648
         }
       },
       {
@@ -349,23 +349,23 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 41
+        "citations": 40
       },
       {
         "year": 2016,
-        "citations": 93
+        "citations": 92
       },
       {
         "year": 2017,
-        "citations": 144
+        "citations": 148
       },
       {
         "year": 2018,
-        "citations": 249
+        "citations": 247
       },
       {
         "year": 2019,
-        "citations": 448
+        "citations": 452
       },
       {
         "year": 2020,
@@ -373,15 +373,15 @@
       },
       {
         "year": 2021,
-        "citations": 896
+        "citations": 894
       },
       {
         "year": 2022,
-        "citations": 1330
+        "citations": 1334
       },
       {
         "year": 2023,
-        "citations": 1608
+        "citations": 1607
       },
       {
         "year": 2024,
@@ -389,11 +389,11 @@
       },
       {
         "year": 2025,
-        "citations": 1174
+        "citations": 1169
       },
       {
         "year": 2026,
-        "citations": 307
+        "citations": 316
       }
     ]
   },
@@ -570,13 +570,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
     },
     {
-      "name": "Retno Wulandari",
-      "link": "https://scholar.google.com/citations?user=BptC9YsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=BptC9YsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "BptC9YsAAAAJ",
-      "affiliations": "Universitas Negeri Malang",
-      "email": "Verified email at um.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BptC9YsAAAAJ&citpid=1"
+      "name": "wiwin purnomowati",
+      "link": "https://scholar.google.com/citations?user=JymEcoIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=JymEcoIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "JymEcoIAAAAJ",
+      "affiliations": "Universitas Widya Gama",
+      "email": "Verified email at widyagama.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JymEcoIAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
