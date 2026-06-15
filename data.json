@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a2e42a9079a2b0fe9505ca2",
+    "id": "6a2f9c0a1290d9308732eaef",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2e42a9079a2b0fe9505ca2.json",
-    "created_at": "2026-06-14 05:56:57 UTC",
-    "processed_at": "2026-06-14 05:56:57 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2f9c0a1290d9308732eaef.json",
+    "created_at": "2026-06-15 06:30:34 UTC",
+    "processed_at": "2026-06-15 06:30:34 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2e42a9079a2b0fe9505ca2.html",
-    "total_time_taken": 0.58
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a2f9c0a1290d9308732eaef.html",
+    "total_time_taken": 8.22
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -135,7 +135,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 217,
+        "value": 216,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -317,7 +317,7 @@
       "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
-        "value": 110,
+        "value": 111,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
         "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
         "cites_id": "2353733042313564197"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8418,
-          "since_2021": 6648
+          "all": 8423,
+          "since_2021": 6654
         }
       },
       {
@@ -342,7 +342,7 @@
       {
         "i10_index": {
           "all": 117,
-          "since_2021": 99
+          "since_2021": 98
         }
       }
     ],
@@ -357,7 +357,7 @@
       },
       {
         "year": 2017,
-        "citations": 148
+        "citations": 146
       },
       {
         "year": 2018,
@@ -365,7 +365,7 @@
       },
       {
         "year": 2019,
-        "citations": 452
+        "citations": 453
       },
       {
         "year": 2020,
@@ -373,7 +373,7 @@
       },
       {
         "year": 2021,
-        "citations": 894
+        "citations": 893
       },
       {
         "year": 2022,
@@ -381,19 +381,19 @@
       },
       {
         "year": 2023,
-        "citations": 1607
+        "citations": 1606
       },
       {
         "year": 2024,
-        "citations": 1316
+        "citations": 1315
       },
       {
         "year": 2025,
-        "citations": 1169
+        "citations": 1174
       },
       {
         "year": 2026,
-        "citations": 316
+        "citations": 320
       }
     ]
   },
@@ -570,13 +570,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
     },
     {
-      "name": "wiwin purnomowati",
-      "link": "https://scholar.google.com/citations?user=JymEcoIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=JymEcoIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "JymEcoIAAAAJ",
-      "affiliations": "Universitas Widya Gama",
-      "email": "Verified email at widyagama.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JymEcoIAAAAJ&citpid=1"
+      "name": "Aditya Hermawan",
+      "link": "https://scholar.google.com/citations?user=300WG1AAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=300WG1AAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "300WG1AAAAAJ",
+      "affiliations": "Master of Accounting, STIE ASIA Malang",
+      "email": "Verified email at stieasia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=300WG1AAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
