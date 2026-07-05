@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a488eab3047f3264594532d",
+    "id": "6a49e53902ab8c0374b78e88",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a488eab3047f3264594532d.json",
-    "created_at": "2026-07-04 04:40:11 UTC",
-    "processed_at": "2026-07-04 04:40:11 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a49e53902ab8c0374b78e88.json",
+    "created_at": "2026-07-05 05:01:45 UTC",
+    "processed_at": "2026-07-05 05:01:45 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a488eab3047f3264594532d.html",
-    "total_time_taken": 1.05
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a49e53902ab8c0374b78e88.html",
+    "total_time_taken": 2.08
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1145,
+        "value": 1147,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -93,7 +93,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 272,
+        "value": 273,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -213,6 +213,20 @@
       "year": "2014"
     },
     {
+      "title": "Faktor yang mempengaruhi volume impor beras di Indonesia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:35N4QoGY0k4C",
+      "citation_id": "dRFYT7EAAAAJ:35N4QoGY0k4C",
+      "authors": "E Christianto",
+      "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
+      "cited_by": {
+        "value": 157,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
+        "cites_id": "18207829009503242971"
+      },
+      "year": "2013"
+    },
+    {
       "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:YFjsv_pBGBYC",
       "citation_id": "dRFYT7EAAAAJ:YFjsv_pBGBYC",
@@ -225,20 +239,6 @@
         "cites_id": "10717646792287894255"
       },
       "year": "2017"
-    },
-    {
-      "title": "Faktor yang mempengaruhi volume impor beras di Indonesia",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:35N4QoGY0k4C",
-      "citation_id": "dRFYT7EAAAAJ:35N4QoGY0k4C",
-      "authors": "E Christianto",
-      "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
-      "cited_by": {
-        "value": 156,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
-        "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
-        "cites_id": "18207829009503242971"
-      },
-      "year": "2013"
     },
     {
       "title": "BENARKAH IKLAN ONLINE EFEKTIF UNTUK DIGUNAKAN DALAM PROMOSI PERUSAHAAN",
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8496,
-          "since_2021": 6722
+          "all": 8505,
+          "since_2021": 6730
         }
       },
       {
@@ -361,7 +361,7 @@
       },
       {
         "year": 2018,
-        "citations": 246
+        "citations": 247
       },
       {
         "year": 2019,
@@ -389,11 +389,11 @@
       },
       {
         "year": 2025,
-        "citations": 1183
+        "citations": 1186
       },
       {
         "year": 2026,
-        "citations": 374
+        "citations": 379
       }
     ]
   },
