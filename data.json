@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a51c3e99f070002afeb4070",
+    "id": "6a5318025b92f89f93168ff5",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a51c3e99f070002afeb4070.json",
-    "created_at": "2026-07-11 04:17:45 UTC",
-    "processed_at": "2026-07-11 04:17:45 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a5318025b92f89f93168ff5.json",
+    "created_at": "2026-07-12 04:28:50 UTC",
+    "processed_at": "2026-07-12 04:28:50 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a51c3e99f070002afeb4070.html",
-    "total_time_taken": 1.56
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a5318025b92f89f93168ff5.html",
+    "total_time_taken": 1.35
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1150,
+        "value": 1154,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 530,
+        "value": 531,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 238,
+        "value": 237,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -275,7 +275,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 129,
+        "value": 130,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -297,6 +297,20 @@
       "year": "2015"
     },
     {
+      "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
+      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
+      "cited_by": {
+        "value": 112,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
+        "cites_id": "2353733042313564197"
+      },
+      "year": "2020"
+    },
+    {
       "title": "PENGARUH KEBIJAKAN DIVIDEN, LEVERAGE PERUSAHAAN DAN PROFITABILITAS TERHADAP RETURN SAHAM: STUDI PADA PERUSAHAAN SUB SEKTOR MAKANAN DAN MINUMAN YANG TERDAFTAR DI BEI",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:2osOgNQ5qMEC",
       "citation_id": "dRFYT7EAAAAJ:2osOgNQ5qMEC",
@@ -309,28 +323,14 @@
         "cites_id": "3009025295652280071,666191606305125396"
       },
       "year": "2017"
-    },
-    {
-      "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
-      "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
-      "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
-      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
-      "cited_by": {
-        "value": 111,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
-        "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
-        "cites_id": "2353733042313564197"
-      },
-      "year": "2020"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8518,
-          "since_2021": 6751
+          "all": 8538,
+          "since_2021": 6768
         }
       },
       {
@@ -349,7 +349,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 41
+        "citations": 40
       },
       {
         "year": 2016,
@@ -357,27 +357,27 @@
       },
       {
         "year": 2017,
-        "citations": 143
+        "citations": 146
       },
       {
         "year": 2018,
-        "citations": 252
+        "citations": 250
       },
       {
         "year": 2019,
-        "citations": 451
+        "citations": 455
       },
       {
         "year": 2020,
-        "citations": 631
+        "citations": 632
       },
       {
         "year": 2021,
-        "citations": 901
+        "citations": 897
       },
       {
         "year": 2022,
-        "citations": 1329
+        "citations": 1333
       },
       {
         "year": 2023,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1320
+        "citations": 1317
       },
       {
         "year": 2025,
-        "citations": 1189
+        "citations": 1190
       },
       {
         "year": 2026,
-        "citations": 388
+        "citations": 406
       }
     ]
   },
@@ -570,13 +570,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
     },
     {
-      "name": "Retno Wulandari",
-      "link": "https://scholar.google.com/citations?user=BptC9YsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=BptC9YsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "BptC9YsAAAAJ",
-      "affiliations": "Universitas Negeri Malang",
-      "email": "Verified email at um.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BptC9YsAAAAJ&citpid=1"
+      "name": "Aditya Hermawan",
+      "link": "https://scholar.google.com/citations?user=300WG1AAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=300WG1AAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "300WG1AAAAAJ",
+      "affiliations": "Master of Accounting, STIE ASIA Malang",
+      "email": "Verified email at stieasia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=300WG1AAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
