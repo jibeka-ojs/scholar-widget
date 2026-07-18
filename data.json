@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a59ab9d71ff8c05dd626ac8",
+    "id": "6a5afb431290d936abcce7e3",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a59ab9d71ff8c05dd626ac8.json",
-    "created_at": "2026-07-17 04:12:13 UTC",
-    "processed_at": "2026-07-17 04:12:13 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a5afb431290d936abcce7e3.json",
+    "created_at": "2026-07-18 04:04:19 UTC",
+    "processed_at": "2026-07-18 04:04:19 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a59ab9d71ff8c05dd626ac8.html",
-    "total_time_taken": 0.71
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a5afb431290d936abcce7e3.html",
+    "total_time_taken": 2.72
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1152,
+        "value": 1157,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 533,
+        "value": 534,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -121,7 +121,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 235,
+        "value": 236,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -191,7 +191,7 @@
       "authors": "AS Susanto",
       "publication": "Jurnal Jibeka 7 (2), 1-6, 2013",
       "cited_by": {
-        "value": 162,
+        "value": 163,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072231077206912035",
         "serpapi_link": "https://serpapi.com/search.json?cites=17072231077206912035&engine=google_scholar&hl=en",
         "cites_id": "17072231077206912035"
@@ -297,6 +297,20 @@
       "year": "2015"
     },
     {
+      "title": "PENGARUH KEBIJAKAN DIVIDEN, LEVERAGE PERUSAHAAN DAN PROFITABILITAS TERHADAP RETURN SAHAM: STUDI PADA PERUSAHAAN SUB SEKTOR MAKANAN DAN MINUMAN YANG TERDAFTAR DI BEI",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "dRFYT7EAAAAJ:2osOgNQ5qMEC",
+      "authors": "R Fitri",
+      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (2), 32-37, 2017",
+      "cited_by": {
+        "value": 113,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3009025295652280071,666191606305125396",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3009025295652280071%2C666191606305125396&engine=google_scholar&hl=en",
+        "cites_id": "3009025295652280071,666191606305125396"
+      },
+      "year": "2017"
+    },
+    {
       "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
       "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
@@ -309,28 +323,14 @@
         "cites_id": "2353733042313564197"
       },
       "year": "2020"
-    },
-    {
-      "title": "PENGARUH KEBIJAKAN DIVIDEN, LEVERAGE PERUSAHAAN DAN PROFITABILITAS TERHADAP RETURN SAHAM: STUDI PADA PERUSAHAAN SUB SEKTOR MAKANAN DAN MINUMAN YANG TERDAFTAR DI BEI",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:2osOgNQ5qMEC",
-      "citation_id": "dRFYT7EAAAAJ:2osOgNQ5qMEC",
-      "authors": "R Fitri",
-      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (2), 32-37, 2017",
-      "cited_by": {
-        "value": 112,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3009025295652280071,666191606305125396",
-        "serpapi_link": "https://serpapi.com/search.json?cites=3009025295652280071%2C666191606305125396&engine=google_scholar&hl=en",
-        "cites_id": "3009025295652280071,666191606305125396"
-      },
-      "year": "2017"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8538,
-          "since_2021": 6769
+          "all": 8554,
+          "since_2021": 6784
         }
       },
       {
@@ -381,7 +381,7 @@
       },
       {
         "year": 2023,
-        "citations": 1610
+        "citations": 1612
       },
       {
         "year": 2024,
@@ -389,11 +389,11 @@
       },
       {
         "year": 2025,
-        "citations": 1185
+        "citations": 1189
       },
       {
         "year": 2026,
-        "citations": 414
+        "citations": 423
       }
     ]
   },
@@ -453,15 +453,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EoMzhtoAAAAJ&citpid=1"
     },
     {
-      "name": "Zainul Muchlas",
-      "link": "https://scholar.google.com/citations?user=RAan8qcAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=RAan8qcAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "RAan8qcAAAAJ",
-      "affiliations": "STIE ASIA MALANG",
-      "email": "Verified email at stieasia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RAan8qcAAAAJ&citpid=1"
-    },
-    {
       "name": "Raisa Fitri",
       "link": "https://scholar.google.com/citations?user=tF_qcLIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=tF_qcLIAAAAJ&engine=google_scholar_author&hl=en",
@@ -469,6 +460,15 @@
       "affiliations": "Universitas Negeri Malang",
       "email": "Verified email at um.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tF_qcLIAAAAJ&citpid=7"
+    },
+    {
+      "name": "Zainul Muchlas",
+      "link": "https://scholar.google.com/citations?user=RAan8qcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=RAan8qcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "RAan8qcAAAAJ",
+      "affiliations": "STIE ASIA MALANG",
+      "email": "Verified email at stieasia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RAan8qcAAAAJ&citpid=1"
     },
     {
       "name": "Rosita Andarsari",
