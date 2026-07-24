@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a61966f2f5ea0265feb8c7d",
+    "id": "6a62e7ea998aad281e521cfb",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a61966f2f5ea0265feb8c7d.json",
-    "created_at": "2026-07-23 04:19:59 UTC",
-    "processed_at": "2026-07-23 04:19:59 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a62e7ea998aad281e521cfb.json",
+    "created_at": "2026-07-24 04:19:54 UTC",
+    "processed_at": "2026-07-24 04:19:54 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a61966f2f5ea0265feb8c7d.html",
-    "total_time_taken": 0.62
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a62e7ea998aad281e521cfb.html",
+    "total_time_taken": 1.26
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1157,
+        "value": 1158,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 8569,
-          "since_2021": 6795
+          "all": 8574,
+          "since_2021": 6798
         }
       },
       {
@@ -353,7 +353,7 @@
       },
       {
         "year": 2016,
-        "citations": 93
+        "citations": 94
       },
       {
         "year": 2017,
@@ -377,23 +377,23 @@
       },
       {
         "year": 2022,
-        "citations": 1331
+        "citations": 1332
       },
       {
         "year": 2023,
-        "citations": 1614
+        "citations": 1613
       },
       {
         "year": 2024,
-        "citations": 1316
+        "citations": 1315
       },
       {
         "year": 2025,
-        "citations": 1192
+        "citations": 1191
       },
       {
         "year": 2026,
-        "citations": 429
+        "citations": 434
       }
     ]
   },
