@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a64385d3d34dd04693d6e23",
+    "id": "6a658d96d3982c40cc8afeea",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a64385d3d34dd04693d6e23.json",
-    "created_at": "2026-07-25 04:15:25 UTC",
-    "processed_at": "2026-07-25 04:15:25 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a658d96d3982c40cc8afeea.json",
+    "created_at": "2026-07-26 04:31:18 UTC",
+    "processed_at": "2026-07-26 04:31:18 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a64385d3d34dd04693d6e23.html",
-    "total_time_taken": 2.18
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a658d96d3982c40cc8afeea.html",
+    "total_time_taken": 1.71
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1158,
+        "value": 1157,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 533,
+        "value": 531,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -247,7 +247,7 @@
       "authors": "ED Santoso, N Larasati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 28-36, 2019",
       "cited_by": {
-        "value": 138,
+        "value": 137,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3864259127795358248",
         "serpapi_link": "https://serpapi.com/search.json?cites=3864259127795358248&engine=google_scholar&hl=en",
         "cites_id": "3864259127795358248"
@@ -297,6 +297,20 @@
       "year": "2015"
     },
     {
+      "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
+      "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
+      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
+      "cited_by": {
+        "value": 113,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
+        "cites_id": "2353733042313564197"
+      },
+      "year": "2020"
+    },
+    {
       "title": "PENGARUH KEBIJAKAN DIVIDEN, LEVERAGE PERUSAHAAN DAN PROFITABILITAS TERHADAP RETURN SAHAM: STUDI PADA PERUSAHAAN SUB SEKTOR MAKANAN DAN MINUMAN YANG TERDAFTAR DI BEI",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:2osOgNQ5qMEC",
       "citation_id": "dRFYT7EAAAAJ:2osOgNQ5qMEC",
@@ -309,40 +323,26 @@
         "cites_id": "3009025295652280071,666191606305125396"
       },
       "year": "2017"
-    },
-    {
-      "title": "PENGARUH PROFITABILITAS TERHADAP NILAI PERUSAHAAN PERHOTELAN DAN PARIWISATA DENGAN STRUKTUR MODAL SEBAGAI VARIABEL INTERVENING",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:l7t_Zn2s7bgC",
-      "citation_id": "dRFYT7EAAAAJ:l7t_Zn2s7bgC",
-      "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
-      "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
-      "cited_by": {
-        "value": 112,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
-        "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
-        "cites_id": "2353733042313564197"
-      },
-      "year": "2020"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8574,
-          "since_2021": 6798
+          "all": 8573,
+          "since_2021": 6800
         }
       },
       {
         "h_index": {
-          "all": 43,
+          "all": 44,
           "since_2021": 40
         }
       },
       {
         "i10_index": {
           "all": 119,
-          "since_2021": 99
+          "since_2021": 100
         }
       }
     ],
@@ -353,7 +353,7 @@
       },
       {
         "year": 2016,
-        "citations": 94
+        "citations": 93
       },
       {
         "year": 2017,
@@ -377,23 +377,23 @@
       },
       {
         "year": 2022,
-        "citations": 1332
+        "citations": 1334
       },
       {
         "year": 2023,
-        "citations": 1613
+        "citations": 1612
       },
       {
         "year": 2024,
-        "citations": 1315
+        "citations": 1310
       },
       {
         "year": 2025,
-        "citations": 1191
+        "citations": 1193
       },
       {
         "year": 2026,
-        "citations": 434
+        "citations": 437
       }
     ]
   },
@@ -498,6 +498,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
+      "name": "Ahmad Nizar Yogatama",
+      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ATYgw1cAAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
+    },
+    {
       "name": "Mohammad Bukhori",
       "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
@@ -525,15 +534,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iprgtdgAAAAJ&citpid=10"
     },
     {
-      "name": "Ahmad Nizar Yogatama",
-      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ATYgw1cAAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
-    },
-    {
       "name": "Mega Mirasaputri Cahyanti",
       "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
@@ -552,15 +552,6 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Uki Yonda Asepta",
-      "link": "https://scholar.google.com/citations?user=zYgdp_wAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=zYgdp_wAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "zYgdp_wAAAAJ",
-      "affiliations": "Universitas Ma Chung",
-      "email": "Verified email at machung.ac.id",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Hafid Aditya Pradesa",
       "link": "https://scholar.google.com/citations?user=dAWw7mQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=dAWw7mQAAAAJ&engine=google_scholar_author&hl=en",
@@ -568,6 +559,15 @@
       "affiliations": "Politeknik STIA LAN Bandung",
       "email": "Verified email at poltek.stialanbandung.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dAWw7mQAAAAJ&citpid=5"
+    },
+    {
+      "name": "Uki Yonda Asepta",
+      "link": "https://scholar.google.com/citations?user=zYgdp_wAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zYgdp_wAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zYgdp_wAAAAJ",
+      "affiliations": "Universitas Ma Chung",
+      "email": "Verified email at machung.ac.id",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
       "name": "Aditya Hermawan",
