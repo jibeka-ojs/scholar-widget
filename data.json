@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a7556c095e0b321c85e3e9a",
+    "id": "6a769aede64250a8f6b2da7a",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7556c095e0b321c85e3e9a.json",
-    "created_at": "2026-08-07 03:53:36 UTC",
-    "processed_at": "2026-08-07 03:53:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a769aede64250a8f6b2da7a.json",
+    "created_at": "2026-08-08 02:56:45 UTC",
+    "processed_at": "2026-08-08 02:56:45 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7556c095e0b321c85e3e9a.html",
-    "total_time_taken": 0.87
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a769aede64250a8f6b2da7a.html",
+    "total_time_taken": 1.14
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1108,
+        "value": 1109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -121,7 +121,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 215,
+        "value": 216,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 7964,
-          "since_2021": 6280
+          "all": 7968,
+          "since_2021": 6282
         }
       },
       {
@@ -369,15 +369,15 @@
       },
       {
         "year": 2020,
-        "citations": 603
+        "citations": 605
       },
       {
         "year": 2021,
-        "citations": 839
+        "citations": 837
       },
       {
         "year": 2022,
-        "citations": 1226
+        "citations": 1227
       },
       {
         "year": 2023,
@@ -385,7 +385,7 @@
       },
       {
         "year": 2024,
-        "citations": 1183
+        "citations": 1184
       },
       {
         "year": 2025,
@@ -393,7 +393,7 @@
       },
       {
         "year": 2026,
-        "citations": 469
+        "citations": 470
       }
     ]
   },
@@ -498,15 +498,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
-      "name": "Ahmad Nizar Yogatama",
-      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ATYgw1cAAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
-    },
-    {
       "name": "Mohammad Bukhori",
       "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
@@ -514,6 +505,15 @@
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
+    },
+    {
+      "name": "Ahmad Nizar Yogatama",
+      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ATYgw1cAAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
     },
     {
       "name": "Ike Kusdyah Rachmawati",
