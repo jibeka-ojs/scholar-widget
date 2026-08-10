@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a77ee064de49a62cd169bf0",
+    "id": "6a7941f1550cc45b49217b95",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a77ee064de49a62cd169bf0.json",
-    "created_at": "2026-08-09 03:03:34 UTC",
-    "processed_at": "2026-08-09 03:03:34 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7941f1550cc45b49217b95.json",
+    "created_at": "2026-08-10 03:13:53 UTC",
+    "processed_at": "2026-08-10 03:13:53 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a77ee064de49a62cd169bf0.html",
-    "total_time_taken": 0.53
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7941f1550cc45b49217b95.html",
+    "total_time_taken": 2.7
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1112,
+        "value": 1114,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -65,7 +65,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 512,
+        "value": 513,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -79,7 +79,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 265,
+        "value": 266,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -149,7 +149,7 @@
       "authors": "PR Andarsari, J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 59-65, 2018",
       "cited_by": {
-        "value": 188,
+        "value": 190,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453168640401033223",
         "serpapi_link": "https://serpapi.com/search.json?cites=16453168640401033223&engine=google_scholar&hl=en",
         "cites_id": "16453168640401033223"
@@ -199,6 +199,20 @@
       "year": "2013"
     },
     {
+      "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "dRFYT7EAAAAJ:YFjsv_pBGBYC",
+      "authors": "UY Asepta, SHP Maruno",
+      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
+      "cited_by": {
+        "value": 148,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
+        "cites_id": "10717646792287894255"
+      },
+      "year": "2017"
+    },
+    {
       "title": "Tipe Kepribadian Dalam Personal Finance",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:JV2RwH3_ST0C",
       "citation_id": "dRFYT7EAAAAJ:JV2RwH3_ST0C",
@@ -211,20 +225,6 @@
         "cites_id": "9801215156894747969"
       },
       "year": "2014"
-    },
-    {
-      "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:YFjsv_pBGBYC",
-      "citation_id": "dRFYT7EAAAAJ:YFjsv_pBGBYC",
-      "authors": "UY Asepta, SHP Maruno",
-      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
-      "cited_by": {
-        "value": 146,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
-        "cites_id": "10717646792287894255"
-      },
-      "year": "2017"
     },
     {
       "title": "BENARKAH IKLAN ONLINE EFEKTIF UNTUK DIGUNAKAN DALAM PROMOSI PERUSAHAAN",
@@ -289,7 +289,7 @@
       "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
-        "value": 108,
+        "value": 109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
         "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
         "cites_id": "2353733042313564197"
@@ -329,8 +329,8 @@
     "table": [
       {
         "citations": {
-          "all": 7989,
-          "since_2021": 6303
+          "all": 8005,
+          "since_2021": 6319
         }
       },
       {
@@ -365,19 +365,19 @@
       },
       {
         "year": 2019,
-        "citations": 431
+        "citations": 430
       },
       {
         "year": 2020,
-        "citations": 605
+        "citations": 606
       },
       {
         "year": 2021,
-        "citations": 837
+        "citations": 839
       },
       {
         "year": 2022,
-        "citations": 1231
+        "citations": 1233
       },
       {
         "year": 2023,
@@ -385,15 +385,15 @@
       },
       {
         "year": 2024,
-        "citations": 1185
+        "citations": 1187
       },
       {
         "year": 2025,
-        "citations": 1077
+        "citations": 1081
       },
       {
         "year": 2026,
-        "citations": 483
+        "citations": 488
       }
     ]
   },
