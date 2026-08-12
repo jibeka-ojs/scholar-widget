@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a7a91953d8701715aec037d",
+    "id": "6a7be77ed2d740330513be2b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7a91953d8701715aec037d.json",
-    "created_at": "2026-08-11 03:05:57 UTC",
-    "processed_at": "2026-08-11 03:05:57 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7be77ed2d740330513be2b.json",
+    "created_at": "2026-08-12 03:24:46 UTC",
+    "processed_at": "2026-08-12 03:24:46 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7a91953d8701715aec037d.html",
-    "total_time_taken": 0.98
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7be77ed2d740330513be2b.html",
+    "total_time_taken": 0.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +51,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1114,
+        "value": 1115,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -191,26 +191,12 @@
       "authors": "AS Susanto",
       "publication": "Jurnal Jibeka 7 (2), 1-6, 2013",
       "cited_by": {
-        "value": 154,
+        "value": 153,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072231077206912035",
         "serpapi_link": "https://serpapi.com/search.json?cites=17072231077206912035&engine=google_scholar&hl=en",
         "cites_id": "17072231077206912035"
       },
       "year": "2013"
-    },
-    {
-      "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:YFjsv_pBGBYC",
-      "citation_id": "dRFYT7EAAAAJ:YFjsv_pBGBYC",
-      "authors": "UY Asepta, SHP Maruno",
-      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
-      "cited_by": {
-        "value": 148,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
-        "cites_id": "10717646792287894255"
-      },
-      "year": "2017"
     },
     {
       "title": "Tipe Kepribadian Dalam Personal Finance",
@@ -225,6 +211,20 @@
         "cites_id": "9801215156894747969"
       },
       "year": "2014"
+    },
+    {
+      "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "dRFYT7EAAAAJ:YFjsv_pBGBYC",
+      "authors": "UY Asepta, SHP Maruno",
+      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
+      "cited_by": {
+        "value": 146,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
+        "cites_id": "10717646792287894255"
+      },
+      "year": "2017"
     },
     {
       "title": "BENARKAH IKLAN ONLINE EFEKTIF UNTUK DIGUNAKAN DALAM PROMOSI PERUSAHAAN",
@@ -289,12 +289,26 @@
       "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
-        "value": 109,
+        "value": 108,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
         "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
         "cites_id": "2353733042313564197"
       },
       "year": "2020"
+    },
+    {
+      "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "dRFYT7EAAAAJ:J_g5lzvAfSwC",
+      "authors": "Z Muchlas, AR Alamsyah",
+      "publication": "Jurnal Jibeka 9 (1), 76-86, 2015",
+      "cited_by": {
+        "value": 107,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5314921437463266884",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5314921437463266884&engine=google_scholar&hl=en",
+        "cites_id": "5314921437463266884"
+      },
+      "year": "2015"
     },
     {
       "title": "PENGARUH KEBIJAKAN DIVIDEN, LEVERAGE PERUSAHAAN DAN PROFITABILITAS TERHADAP RETURN SAHAM: STUDI PADA PERUSAHAAN SUB SEKTOR MAKANAN DAN MINUMAN YANG TERDAFTAR DI BEI",
@@ -309,28 +323,14 @@
         "cites_id": "3009025295652280071,666191606305125396"
       },
       "year": "2017"
-    },
-    {
-      "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "dRFYT7EAAAAJ:J_g5lzvAfSwC",
-      "authors": "Z Muchlas, AR Alamsyah",
-      "publication": "Jurnal Jibeka 9 (1), 76-86, 2015",
-      "cited_by": {
-        "value": 106,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5314921437463266884",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5314921437463266884&engine=google_scholar&hl=en",
-        "cites_id": "5314921437463266884"
-      },
-      "year": "2015"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8005,
-          "since_2021": 6319
+          "all": 8004,
+          "since_2021": 6318
         }
       },
       {
@@ -353,19 +353,19 @@
       },
       {
         "year": 2016,
-        "citations": 92
+        "citations": 91
       },
       {
         "year": 2017,
-        "citations": 132
+        "citations": 133
       },
       {
         "year": 2018,
-        "citations": 223
+        "citations": 222
       },
       {
         "year": 2019,
-        "citations": 430
+        "citations": 431
       },
       {
         "year": 2020,
@@ -373,27 +373,27 @@
       },
       {
         "year": 2021,
-        "citations": 839
+        "citations": 840
       },
       {
         "year": 2022,
-        "citations": 1233
+        "citations": 1232
       },
       {
         "year": 2023,
-        "citations": 1471
+        "citations": 1472
       },
       {
         "year": 2024,
-        "citations": 1187
+        "citations": 1186
       },
       {
         "year": 2025,
-        "citations": 1081
+        "citations": 1078
       },
       {
         "year": 2026,
-        "citations": 488
+        "citations": 490
       }
     ]
   },
