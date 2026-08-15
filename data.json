@@ -1,13 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a7e8aca6838636d2bb82604",
+    "id": "6a7fcbacd355ccb0edf0f069",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7e8aca6838636d2bb82604.json",
-    "created_at": "2026-08-14 03:26:02 UTC",
-    "processed_at": "2026-08-14 03:26:02 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7fcbacd355ccb0edf0f069.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7fcbacd355ccb0edf0f069.md",
+    "created_at": "2026-08-15 02:15:08 UTC",
+    "processed_at": "2026-08-15 02:15:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7e8aca6838636d2bb82604.html",
-    "total_time_taken": 0.85
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a7fcbacd355ccb0edf0f069.html",
+    "total_time_taken": 3.7
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -51,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1115,
+        "value": 1117,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -289,7 +290,7 @@
       "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
-        "value": 108,
+        "value": 109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
         "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
         "cites_id": "2353733042313564197"
@@ -329,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8005,
-          "since_2021": 6319
+          "all": 8011,
+          "since_2021": 6325
         }
       },
       {
@@ -385,7 +386,7 @@
       },
       {
         "year": 2024,
-        "citations": 1186
+        "citations": 1188
       },
       {
         "year": 2025,
@@ -393,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 491
+        "citations": 495
       }
     ]
   },
