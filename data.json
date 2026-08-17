@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a811eec532a1794d9352a0f",
+    "id": "6a82702088de923e8920ac36",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a811eec532a1794d9352a0f.json",
-    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a811eec532a1794d9352a0f.md",
-    "created_at": "2026-08-16 02:22:36 UTC",
-    "processed_at": "2026-08-16 02:22:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a82702088de923e8920ac36.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a82702088de923e8920ac36.md",
+    "created_at": "2026-08-17 02:21:20 UTC",
+    "processed_at": "2026-08-17 02:21:20 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a811eec532a1794d9352a0f.html",
-    "total_time_taken": 2.68
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a82702088de923e8920ac36.html",
+    "total_time_taken": 0.42
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8024,
-          "since_2021": 6338
+          "all": 8025,
+          "since_2021": 6340
         }
       },
       {
@@ -358,7 +358,7 @@
       },
       {
         "year": 2017,
-        "citations": 133
+        "citations": 132
       },
       {
         "year": 2018,
@@ -366,7 +366,7 @@
       },
       {
         "year": 2019,
-        "citations": 431
+        "citations": 432
       },
       {
         "year": 2020,
@@ -382,19 +382,19 @@
       },
       {
         "year": 2023,
-        "citations": 1473
+        "citations": 1474
       },
       {
         "year": 2024,
-        "citations": 1189
+        "citations": 1190
       },
       {
         "year": 2025,
-        "citations": 1080
+        "citations": 1081
       },
       {
         "year": 2026,
-        "citations": 501
+        "citations": 500
       }
     ]
   },
