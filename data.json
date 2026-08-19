@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a83c0ae97c19f3e943590a9",
+    "id": "6a8512d1ccb1e9256f528864",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a83c0ae97c19f3e943590a9.json",
-    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a83c0ae97c19f3e943590a9.md",
-    "created_at": "2026-08-18 02:17:18 UTC",
-    "processed_at": "2026-08-18 02:17:18 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8512d1ccb1e9256f528864.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8512d1ccb1e9256f528864.md",
+    "created_at": "2026-08-19 02:20:01 UTC",
+    "processed_at": "2026-08-19 02:20:01 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a83c0ae97c19f3e943590a9.html",
-    "total_time_taken": 4.49
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8512d1ccb1e9256f528864.html",
+    "total_time_taken": 0.71
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1123,
+        "value": 1124,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -108,7 +108,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 221,
+        "value": 223,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 216,
+        "value": 218,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -228,6 +228,20 @@
       "year": "2017"
     },
     {
+      "title": "Faktor yang mempengaruhi volume impor beras di Indonesia",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:35N4QoGY0k4C",
+      "citation_id": "dRFYT7EAAAAJ:35N4QoGY0k4C",
+      "authors": "E Christianto",
+      "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
+      "cited_by": {
+        "value": 129,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
+        "cites_id": "18207829009503242971"
+      },
+      "year": "2013"
+    },
+    {
       "title": "BENARKAH IKLAN ONLINE EFEKTIF UNTUK DIGUNAKAN DALAM PROMOSI PERUSAHAAN",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:vRqMK49ujn8C",
       "citation_id": "dRFYT7EAAAAJ:vRqMK49ujn8C",
@@ -240,20 +254,6 @@
         "cites_id": "3864259127795358248"
       },
       "year": "2019"
-    },
-    {
-      "title": "Faktor yang mempengaruhi volume impor beras di Indonesia",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:35N4QoGY0k4C",
-      "citation_id": "dRFYT7EAAAAJ:35N4QoGY0k4C",
-      "authors": "E Christianto",
-      "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
-      "cited_by": {
-        "value": 128,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
-        "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
-        "cites_id": "18207829009503242971"
-      },
-      "year": "2013"
     },
     {
       "title": "ANALISIS PREDIKSI KONDISI FINANCIAL DISTRESS MENGGUNAKAN RASIO LIKUIDITAS, PROFITABILITAS, FINANCIAL LEVERAGE DAN ARUS KAS",
@@ -276,7 +276,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 120,
+        "value": 121,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8033,
-          "since_2021": 6348
+          "all": 8043,
+          "since_2021": 6358
         }
       },
       {
@@ -362,11 +362,11 @@
       },
       {
         "year": 2018,
-        "citations": 222
+        "citations": 223
       },
       {
         "year": 2019,
-        "citations": 432
+        "citations": 431
       },
       {
         "year": 2020,
@@ -374,27 +374,27 @@
       },
       {
         "year": 2021,
-        "citations": 843
+        "citations": 842
       },
       {
         "year": 2022,
-        "citations": 1231
+        "citations": 1233
       },
       {
         "year": 2023,
-        "citations": 1473
+        "citations": 1475
       },
       {
         "year": 2024,
-        "citations": 1192
+        "citations": 1194
       },
       {
         "year": 2025,
-        "citations": 1081
+        "citations": 1084
       },
       {
         "year": 2026,
-        "citations": 508
+        "citations": 511
       }
     ]
   },
