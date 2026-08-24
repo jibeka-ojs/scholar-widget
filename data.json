@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a8a5a05ef15ce7b5f22c207",
+    "id": "6a8bab3cf9656150ea06992e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8a5a05ef15ce7b5f22c207.json",
-    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8a5a05ef15ce7b5f22c207.md",
-    "created_at": "2026-08-23 02:25:09 UTC",
-    "processed_at": "2026-08-23 02:25:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8bab3cf9656150ea06992e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8bab3cf9656150ea06992e.md",
+    "created_at": "2026-08-24 02:23:56 UTC",
+    "processed_at": "2026-08-24 02:23:56 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8a5a05ef15ce7b5f22c207.html",
-    "total_time_taken": 0.5
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a8bab3cf9656150ea06992e.html",
+    "total_time_taken": 0.42
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 513,
+        "value": 514,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -136,7 +136,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 210,
+        "value": 211,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -206,7 +206,7 @@
       "authors": "PG Sina",
       "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
       "cited_by": {
-        "value": 149,
+        "value": 150,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
         "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
         "cites_id": "9801215156894747969"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8060,
-          "since_2021": 6374
+          "all": 8066,
+          "since_2021": 6378
         }
       },
       {
@@ -350,7 +350,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 38
+        "citations": 37
       },
       {
         "year": 2016,
@@ -366,11 +366,11 @@
       },
       {
         "year": 2019,
-        "citations": 431
+        "citations": 432
       },
       {
         "year": 2020,
-        "citations": 607
+        "citations": 609
       },
       {
         "year": 2021,
@@ -382,7 +382,7 @@
       },
       {
         "year": 2023,
-        "citations": 1477
+        "citations": 1478
       },
       {
         "year": 2024,
@@ -390,7 +390,7 @@
       },
       {
         "year": 2025,
-        "citations": 1086
+        "citations": 1089
       },
       {
         "year": 2026,
