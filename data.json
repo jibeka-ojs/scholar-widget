@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a9019d4556ce3aa1ee15676",
+    "id": "6a9181186f1e4040365d43bc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9019d4556ce3aa1ee15676.json",
-    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9019d4556ce3aa1ee15676.md",
-    "created_at": "2026-08-27 11:04:52 UTC",
-    "processed_at": "2026-08-27 11:04:52 UTC",
+    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.md",
+    "created_at": "2026-08-28 12:37:44 UTC",
+    "processed_at": "2026-08-28 12:37:44 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9019d4556ce3aa1ee15676.html",
-    "total_time_taken": 5.48
+    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.html",
+    "total_time_taken": 1.94
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 514,
+        "value": 515,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -150,7 +150,7 @@
       "authors": "PR Andarsari, J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 59-65, 2018",
       "cited_by": {
-        "value": 191,
+        "value": 192,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453168640401033223",
         "serpapi_link": "https://serpapi.com/search.json?cites=16453168640401033223&engine=google_scholar&hl=en",
         "cites_id": "16453168640401033223"
@@ -192,7 +192,7 @@
       "authors": "AS Susanto",
       "publication": "Jurnal Jibeka 7 (2), 1-6, 2013",
       "cited_by": {
-        "value": 153,
+        "value": 154,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072231077206912035",
         "serpapi_link": "https://serpapi.com/search.json?cites=17072231077206912035&engine=google_scholar&hl=en",
         "cites_id": "17072231077206912035"
@@ -318,7 +318,7 @@
       "authors": "R Fitri",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (2), 32-37, 2017",
       "cited_by": {
-        "value": 106,
+        "value": 105,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3009025295652280071,666191606305125396",
         "serpapi_link": "https://serpapi.com/search.json?cites=3009025295652280071%2C666191606305125396&engine=google_scholar&hl=en",
         "cites_id": "3009025295652280071,666191606305125396"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8075,
-          "since_2021": 6384
+          "all": 8079,
+          "since_2021": 6387
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2021,
-        "citations": 842
+        "citations": 841
       },
       {
         "year": 2022,
@@ -382,19 +382,19 @@
       },
       {
         "year": 2023,
-        "citations": 1478
+        "citations": 1481
       },
       {
         "year": 2024,
-        "citations": 1197
+        "citations": 1196
       },
       {
         "year": 2025,
-        "citations": 1090
+        "citations": 1089
       },
       {
         "year": 2026,
-        "citations": 523
+        "citations": 526
       }
     ]
   },
