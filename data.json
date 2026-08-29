@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a9181186f1e4040365d43bc",
+    "id": "6a928e3810c26dc7fbfe5e14",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.json",
-    "markdown_endpoint": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.md",
-    "created_at": "2026-08-28 12:37:44 UTC",
-    "processed_at": "2026-08-28 12:37:44 UTC",
+    "json_endpoint": "https://serpapi.com/searches/j2L9aujzETRIQXLqnt7qqoYqcQJPf9_2G_aZC7nWqgA/6a928e3810c26dc7fbfe5e14.json",
+    "markdown_endpoint": "https://serpapi.com/searches/j2L9aujzETRIQXLqnt7qqoYqcQJPf9_2G_aZC7nWqgA/6a928e3810c26dc7fbfe5e14.md",
+    "created_at": "2026-08-29 07:46:00 UTC",
+    "processed_at": "2026-08-29 07:46:00 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/T6hHNHX3u04YcXaVb6Obgg/6a9181186f1e4040365d43bc.html",
-    "total_time_taken": 1.94
+    "raw_html_file": "https://serpapi.com/searches/j2L9aujzETRIQXLqnt7qqoYqcQJPf9_2G_aZC7nWqgA/6a928e3810c26dc7fbfe5e14.html",
+    "total_time_taken": 0.36
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -220,7 +220,7 @@
       "authors": "UY Asepta, SHP Maruno",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 77-85, 2017",
       "cited_by": {
-        "value": 148,
+        "value": 149,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717646792287894255",
         "serpapi_link": "https://serpapi.com/search.json?cites=10717646792287894255&engine=google_scholar&hl=en",
         "cites_id": "10717646792287894255"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8079,
-          "since_2021": 6387
+          "all": 8082,
+          "since_2021": 6390
         }
       },
       {
@@ -343,7 +343,7 @@
       {
         "i10_index": {
           "all": 115,
-          "since_2021": 96
+          "since_2021": 97
         }
       }
     ],
@@ -390,11 +390,11 @@
       },
       {
         "year": 2025,
-        "citations": 1089
+        "citations": 1090
       },
       {
         "year": 2026,
-        "citations": 526
+        "citations": 528
       }
     ]
   },
