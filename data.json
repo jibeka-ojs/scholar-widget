@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a95247dcc56d369c5fd4d15",
+    "id": "6a966c2e13f4b6c204e0decf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/PJszIO5wStf48j0waDsf_QnDECeyOdUa5YUXe6DXw8w/6a95247dcc56d369c5fd4d15.json",
-    "markdown_endpoint": "https://serpapi.com/searches/PJszIO5wStf48j0waDsf_QnDECeyOdUa5YUXe6DXw8w/6a95247dcc56d369c5fd4d15.md",
-    "created_at": "2026-08-31 06:51:41 UTC",
-    "processed_at": "2026-08-31 06:51:41 UTC",
+    "json_endpoint": "https://serpapi.com/searches/lGAWBSTCh-aEBgJYMNKF8fxMzHiUQyCupYYlAPMGLnM/6a966c2e13f4b6c204e0decf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lGAWBSTCh-aEBgJYMNKF8fxMzHiUQyCupYYlAPMGLnM/6a966c2e13f4b6c204e0decf.md",
+    "created_at": "2026-09-01 06:09:50 UTC",
+    "processed_at": "2026-09-01 06:09:50 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/PJszIO5wStf48j0waDsf_QnDECeyOdUa5YUXe6DXw8w/6a95247dcc56d369c5fd4d15.html",
-    "total_time_taken": 1.56
+    "raw_html_file": "https://serpapi.com/searches/lGAWBSTCh-aEBgJYMNKF8fxMzHiUQyCupYYlAPMGLnM/6a966c2e13f4b6c204e0decf.html",
+    "total_time_taken": 0.72
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1127,
+        "value": 1128,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 219,
+        "value": 218,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -318,7 +318,7 @@
       "authors": "R Fitri",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (2), 32-37, 2017",
       "cited_by": {
-        "value": 105,
+        "value": 106,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3009025295652280071,666191606305125396",
         "serpapi_link": "https://serpapi.com/search.json?cites=3009025295652280071%2C666191606305125396&engine=google_scholar&hl=en",
         "cites_id": "3009025295652280071,666191606305125396"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8086,
-          "since_2021": 6395
+          "all": 8089,
+          "since_2021": 6398
         }
       },
       {
@@ -374,7 +374,7 @@
       },
       {
         "year": 2021,
-        "citations": 841
+        "citations": 842
       },
       {
         "year": 2022,
@@ -386,15 +386,15 @@
       },
       {
         "year": 2024,
-        "citations": 1196
+        "citations": 1194
       },
       {
         "year": 2025,
-        "citations": 1089
+        "citations": 1090
       },
       {
         "year": 2026,
-        "citations": 533
+        "citations": 536
       }
     ]
   },
