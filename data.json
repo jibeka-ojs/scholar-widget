@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a97b5d13d0e4ebafa484c19",
+    "id": "6a99074302ab8c1fd0fbf0c1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/qAUscO2Kcj6StDkOtonsh-TYFUGeMq3B8zcF9JO8XPw/6a97b5d13d0e4ebafa484c19.json",
-    "markdown_endpoint": "https://serpapi.com/searches/qAUscO2Kcj6StDkOtonsh-TYFUGeMq3B8zcF9JO8XPw/6a97b5d13d0e4ebafa484c19.md",
-    "created_at": "2026-09-02 05:36:17 UTC",
-    "processed_at": "2026-09-02 05:36:17 UTC",
+    "json_endpoint": "https://serpapi.com/searches/v6xqXWw8vmLRriw8f7lxTONPCXY0yKvkg0dz8xdMGf4/6a99074302ab8c1fd0fbf0c1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/v6xqXWw8vmLRriw8f7lxTONPCXY0yKvkg0dz8xdMGf4/6a99074302ab8c1fd0fbf0c1.md",
+    "created_at": "2026-09-03 05:36:03 UTC",
+    "processed_at": "2026-09-03 05:36:03 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/qAUscO2Kcj6StDkOtonsh-TYFUGeMq3B8zcF9JO8XPw/6a97b5d13d0e4ebafa484c19.html",
-    "total_time_taken": 1.59
+    "raw_html_file": "https://serpapi.com/searches/v6xqXWw8vmLRriw8f7lxTONPCXY0yKvkg0dz8xdMGf4/6a99074302ab8c1fd0fbf0c1.html",
+    "total_time_taken": 3.03
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 515,
+        "value": 516,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8089,
-          "since_2021": 6398
+          "all": 8092,
+          "since_2021": 6401
         }
       },
       {
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 536
+        "citations": 538
       }
     ]
   },
