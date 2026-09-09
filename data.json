@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a9fa138e642507c78d4e551",
+    "id": "6aa0f3b7683863def0c01dfc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ls7P8vR82bwmz7zGBONopia_cVsKRYQpAV1Q8Yvx0X4/6a9fa138e642507c78d4e551.json",
-    "markdown_endpoint": "https://serpapi.com/searches/ls7P8vR82bwmz7zGBONopia_cVsKRYQpAV1Q8Yvx0X4/6a9fa138e642507c78d4e551.md",
-    "created_at": "2026-09-08 05:46:32 UTC",
-    "processed_at": "2026-09-08 05:46:32 UTC",
+    "json_endpoint": "https://serpapi.com/searches/bo6rYsa8Jy-PpN_ukfKQFHC57x4XgIi3V1edXiYWs1o/6aa0f3b7683863def0c01dfc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bo6rYsa8Jy-PpN_ukfKQFHC57x4XgIi3V1edXiYWs1o/6aa0f3b7683863def0c01dfc.md",
+    "created_at": "2026-09-09 05:50:47 UTC",
+    "processed_at": "2026-09-09 05:50:47 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ls7P8vR82bwmz7zGBONopia_cVsKRYQpAV1Q8Yvx0X4/6a9fa138e642507c78d4e551.html",
-    "total_time_taken": 0.81
+    "raw_html_file": "https://serpapi.com/searches/bo6rYsa8Jy-PpN_ukfKQFHC57x4XgIi3V1edXiYWs1o/6aa0f3b7683863def0c01dfc.html",
+    "total_time_taken": 1.49
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -108,7 +108,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 224,
+        "value": 226,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -136,7 +136,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 211,
+        "value": 212,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -206,7 +206,7 @@
       "authors": "PG Sina",
       "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
       "cited_by": {
-        "value": 152,
+        "value": 153,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
         "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
         "cites_id": "9801215156894747969"
@@ -234,7 +234,7 @@
       "authors": "E Christianto",
       "publication": "Jurnal Jibeka 7 (2), 38-43, 2013",
       "cited_by": {
-        "value": 129,
+        "value": 130,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18207829009503242971",
         "serpapi_link": "https://serpapi.com/search.json?cites=18207829009503242971&engine=google_scholar&hl=en",
         "cites_id": "18207829009503242971"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8125,
-          "since_2021": 6435
+          "all": 8135,
+          "since_2021": 6442
         }
       },
       {
@@ -350,7 +350,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 36
+        "citations": 38
       },
       {
         "year": 2016,
@@ -362,11 +362,11 @@
       },
       {
         "year": 2018,
-        "citations": 224
+        "citations": 223
       },
       {
         "year": 2019,
-        "citations": 433
+        "citations": 435
       },
       {
         "year": 2020,
@@ -378,7 +378,7 @@
       },
       {
         "year": 2022,
-        "citations": 1231
+        "citations": 1232
       },
       {
         "year": 2023,
@@ -386,7 +386,7 @@
       },
       {
         "year": 2024,
-        "citations": 1202
+        "citations": 1204
       },
       {
         "year": 2025,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 553
+        "citations": 557
       }
     ]
   },
@@ -499,15 +499,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
-      "name": "Mohammad Bukhori",
-      "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "HCFgmC8AAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
-    },
-    {
       "name": "Ahmad Nizar Yogatama",
       "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
@@ -515,6 +506,15 @@
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
+    },
+    {
+      "name": "Mohammad Bukhori",
+      "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "HCFgmC8AAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
     },
     {
       "name": "Ike Kusdyah Rachmawati",
