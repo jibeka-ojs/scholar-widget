@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6aab8146f3a0a771d66b5eba",
+    "id": "6aaccf94f680d13dabd5eda5",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/x8pFGp9WtnlJAMhJLpcfcjCnwwysbgDTcD_L3hcV7zc/6aab8146f3a0a771d66b5eba.json",
-    "markdown_endpoint": "https://serpapi.com/searches/x8pFGp9WtnlJAMhJLpcfcjCnwwysbgDTcD_L3hcV7zc/6aab8146f3a0a771d66b5eba.md",
-    "created_at": "2026-09-17 05:57:26 UTC",
-    "processed_at": "2026-09-17 05:57:26 UTC",
+    "json_endpoint": "https://serpapi.com/searches/74MlfuynonCIGNMDGDm-CX76WRhSLmIBHXIrsSfo7O0/6aaccf94f680d13dabd5eda5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/74MlfuynonCIGNMDGDm-CX76WRhSLmIBHXIrsSfo7O0/6aaccf94f680d13dabd5eda5.md",
+    "created_at": "2026-09-18 05:43:48 UTC",
+    "processed_at": "2026-09-18 05:43:48 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/x8pFGp9WtnlJAMhJLpcfcjCnwwysbgDTcD_L3hcV7zc/6aab8146f3a0a771d66b5eba.html",
-    "total_time_taken": 0.8
+    "raw_html_file": "https://serpapi.com/searches/74MlfuynonCIGNMDGDm-CX76WRhSLmIBHXIrsSfo7O0/6aaccf94f680d13dabd5eda5.html",
+    "total_time_taken": 0.94
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1137,
+        "value": 1138,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -66,12 +66,26 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 520,
+        "value": 522,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
       },
       "year": "2015"
+    },
+    {
+      "title": "ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI KEMISKINAN DI INDONESIA SELAMA LIMA TAHUN TERAKHIR",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "dRFYT7EAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "N Zuhdiyaty, D Kaluge",
+      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
+      "cited_by": {
+        "value": 268,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
+        "cites_id": "16485183269252268409,9484283313629547562"
+      },
+      "year": "2017"
     },
     {
       "title": "Literasi Keuangan pada Generasi Milenial",
@@ -86,20 +100,6 @@
         "cites_id": "17670938502786925074"
       },
       "year": "2019"
-    },
-    {
-      "title": "ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI KEMISKINAN DI INDONESIA SELAMA LIMA TAHUN TERAKHIR",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:Tyk-4Ss8FVUC",
-      "citation_id": "dRFYT7EAAAAJ:Tyk-4Ss8FVUC",
-      "authors": "N Zuhdiyaty, D Kaluge",
-      "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
-      "cited_by": {
-        "value": 267,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
-        "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
-        "cites_id": "16485183269252268409,9484283313629547562"
-      },
-      "year": "2017"
     },
     {
       "title": "Pengaruh Kepemimpinan dan Disiplin Kerja terhadap Kinerja Karyawan pada PT Central Capital Futures Cabang Malang",
@@ -164,7 +164,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 178,
+        "value": 179,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8158,
-          "since_2021": 6461
+          "all": 8165,
+          "since_2021": 6466
         }
       },
       {
@@ -343,7 +343,7 @@
       {
         "i10_index": {
           "all": 115,
-          "since_2021": 97
+          "since_2021": 98
         }
       }
     ],
@@ -358,7 +358,7 @@
       },
       {
         "year": 2017,
-        "citations": 131
+        "citations": 132
       },
       {
         "year": 2018,
@@ -366,11 +366,11 @@
       },
       {
         "year": 2019,
-        "citations": 434
+        "citations": 435
       },
       {
         "year": 2020,
-        "citations": 611
+        "citations": 612
       },
       {
         "year": 2021,
@@ -382,19 +382,19 @@
       },
       {
         "year": 2023,
-        "citations": 1494
+        "citations": 1496
       },
       {
         "year": 2024,
-        "citations": 1209
+        "citations": 1211
       },
       {
         "year": 2025,
-        "citations": 1092
+        "citations": 1090
       },
       {
         "year": 2026,
-        "citations": 565
+        "citations": 568
       }
     ]
   },
