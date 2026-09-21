@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6aaf75bfb9dbc4003387e3fa",
+    "id": "6ab0c8cbd45a384f1bc5999e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/-cPdhEuBuYz6-wk-wqW8xFDvufaTuArHpZa8UuDe6jk/6aaf75bfb9dbc4003387e3fa.json",
-    "markdown_endpoint": "https://serpapi.com/searches/-cPdhEuBuYz6-wk-wqW8xFDvufaTuArHpZa8UuDe6jk/6aaf75bfb9dbc4003387e3fa.md",
-    "created_at": "2026-09-20 05:57:19 UTC",
-    "processed_at": "2026-09-20 05:57:19 UTC",
+    "json_endpoint": "https://serpapi.com/searches/6G0-eNcEBb4g5RZwyDsIW_t3XTLV9DMcNBxvhDfbHbg/6ab0c8cbd45a384f1bc5999e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6G0-eNcEBb4g5RZwyDsIW_t3XTLV9DMcNBxvhDfbHbg/6ab0c8cbd45a384f1bc5999e.md",
+    "created_at": "2026-09-21 06:03:55 UTC",
+    "processed_at": "2026-09-21 06:03:55 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/-cPdhEuBuYz6-wk-wqW8xFDvufaTuArHpZa8UuDe6jk/6aaf75bfb9dbc4003387e3fa.html",
-    "total_time_taken": 0.75
+    "raw_html_file": "https://serpapi.com/searches/6G0-eNcEBb4g5RZwyDsIW_t3XTLV9DMcNBxvhDfbHbg/6ab0c8cbd45a384f1bc5999e.html",
+    "total_time_taken": 3.32
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1140,
+        "value": 1142,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 522,
+        "value": 523,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -80,7 +80,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 268,
+        "value": 269,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -108,7 +108,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 227,
+        "value": 237,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 219,
+        "value": 220,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -150,7 +150,7 @@
       "authors": "PR Andarsari, J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 59-65, 2018",
       "cited_by": {
-        "value": 192,
+        "value": 193,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453168640401033223",
         "serpapi_link": "https://serpapi.com/search.json?cites=16453168640401033223&engine=google_scholar&hl=en",
         "cites_id": "16453168640401033223"
@@ -164,7 +164,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 179,
+        "value": 180,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -298,6 +298,20 @@
       "year": "2020"
     },
     {
+      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
+      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
+      "authors": "RK Shaputra",
+      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
+      "cited_by": {
+        "value": 108,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
+        "cites_id": "9852645422292531537"
+      },
+      "year": "2013"
+    },
+    {
       "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:J_g5lzvAfSwC",
       "citation_id": "dRFYT7EAAAAJ:J_g5lzvAfSwC",
@@ -310,28 +324,14 @@
         "cites_id": "5314921437463266884"
       },
       "year": "2015"
-    },
-    {
-      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
-      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
-      "authors": "RK Shaputra",
-      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
-      "cited_by": {
-        "value": 107,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
-        "cites_id": "9852645422292531537"
-      },
-      "year": "2013"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8169,
-          "since_2021": 6470
+          "all": 8191,
+          "since_2021": 6492
         }
       },
       {
@@ -342,8 +342,8 @@
       },
       {
         "i10_index": {
-          "all": 115,
-          "since_2021": 98
+          "all": 114,
+          "since_2021": 97
         }
       }
     ],
@@ -374,15 +374,15 @@
       },
       {
         "year": 2021,
-        "citations": 847
+        "citations": 849
       },
       {
         "year": 2022,
-        "citations": 1233
+        "citations": 1237
       },
       {
         "year": 2023,
-        "citations": 1496
+        "citations": 1504
       },
       {
         "year": 2024,
@@ -390,11 +390,11 @@
       },
       {
         "year": 2025,
-        "citations": 1090
+        "citations": 1093
       },
       {
         "year": 2026,
-        "citations": 570
+        "citations": 575
       }
     ]
   },
