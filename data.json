@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab36753759dbcb1249edd45",
+    "id": "6ab4bc3eaa0a88f344ffbd6c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/1OYeR7DYUTniQNJKCWXIYo5uVBpfP7jOhkMPpXQ65v8/6ab36753759dbcb1249edd45.json",
-    "markdown_endpoint": "https://serpapi.com/searches/1OYeR7DYUTniQNJKCWXIYo5uVBpfP7jOhkMPpXQ65v8/6ab36753759dbcb1249edd45.md",
-    "created_at": "2026-09-23 05:44:51 UTC",
-    "processed_at": "2026-09-23 05:44:51 UTC",
+    "json_endpoint": "https://serpapi.com/searches/FFntdV84GHTaurPhzP2mLHDZaCLapsfZivJsmqTgZRo/6ab4bc3eaa0a88f344ffbd6c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FFntdV84GHTaurPhzP2mLHDZaCLapsfZivJsmqTgZRo/6ab4bc3eaa0a88f344ffbd6c.md",
+    "created_at": "2026-09-24 05:59:26 UTC",
+    "processed_at": "2026-09-24 05:59:26 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/1OYeR7DYUTniQNJKCWXIYo5uVBpfP7jOhkMPpXQ65v8/6ab36753759dbcb1249edd45.html",
-    "total_time_taken": 1.93
+    "raw_html_file": "https://serpapi.com/searches/FFntdV84GHTaurPhzP2mLHDZaCLapsfZivJsmqTgZRo/6ab4bc3eaa0a88f344ffbd6c.html",
+    "total_time_taken": 3.99
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -94,7 +94,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 267,
+        "value": 268,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -108,7 +108,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 244,
+        "value": 243,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8197,
-          "since_2021": 6500
+          "all": 8196,
+          "since_2021": 6499
         }
       },
       {
@@ -390,7 +390,7 @@
       },
       {
         "year": 2025,
-        "citations": 1093
+        "citations": 1092
       },
       {
         "year": 2026,
