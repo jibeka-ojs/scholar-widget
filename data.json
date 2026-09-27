@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab75f697dcfbe2aa9cfd0be",
+    "id": "6ab8b7641dcfe21dc9ebe2d6",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/-XQnLJ0_OzSt49ja4SVvdD8E1wIsHkxY_yU2JdSAAcE/6ab75f697dcfbe2aa9cfd0be.json",
-    "markdown_endpoint": "https://serpapi.com/searches/-XQnLJ0_OzSt49ja4SVvdD8E1wIsHkxY_yU2JdSAAcE/6ab75f697dcfbe2aa9cfd0be.md",
-    "created_at": "2026-09-26 06:00:09 UTC",
-    "processed_at": "2026-09-26 06:00:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/e3K9cRfrFb1rNiCPJ1w1uy603PNGhcwQYZW4yRN8CBI/6ab8b7641dcfe21dc9ebe2d6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/e3K9cRfrFb1rNiCPJ1w1uy603PNGhcwQYZW4yRN8CBI/6ab8b7641dcfe21dc9ebe2d6.md",
+    "created_at": "2026-09-27 06:27:48 UTC",
+    "processed_at": "2026-09-27 06:27:48 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/-XQnLJ0_OzSt49ja4SVvdD8E1wIsHkxY_yU2JdSAAcE/6ab75f697dcfbe2aa9cfd0be.html",
-    "total_time_taken": 2.28
+    "raw_html_file": "https://serpapi.com/searches/e3K9cRfrFb1rNiCPJ1w1uy603PNGhcwQYZW4yRN8CBI/6ab8b7641dcfe21dc9ebe2d6.html",
+    "total_time_taken": 2.05
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -262,7 +262,7 @@
       "authors": "D Sudaryanti, A Dinar",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
       "cited_by": {
-        "value": 124,
+        "value": 125,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
         "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
         "cites_id": "17494845482582586530"
@@ -298,20 +298,6 @@
       "year": "2020"
     },
     {
-      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
-      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
-      "authors": "RK Shaputra",
-      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
-      "cited_by": {
-        "value": 108,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
-        "cites_id": "9852645422292531537"
-      },
-      "year": "2013"
-    },
-    {
       "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:J_g5lzvAfSwC",
       "citation_id": "dRFYT7EAAAAJ:J_g5lzvAfSwC",
@@ -324,14 +310,28 @@
         "cites_id": "5314921437463266884"
       },
       "year": "2015"
+    },
+    {
+      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
+      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
+      "authors": "RK Shaputra",
+      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
+      "cited_by": {
+        "value": 107,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
+        "cites_id": "9852645422292531537"
+      },
+      "year": "2013"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8202,
-          "since_2021": 6505
+          "all": 8203,
+          "since_2021": 6506
         }
       },
       {
@@ -374,11 +374,11 @@
       },
       {
         "year": 2021,
-        "citations": 850
+        "citations": 851
       },
       {
         "year": 2022,
-        "citations": 1237
+        "citations": 1236
       },
       {
         "year": 2023,
@@ -390,7 +390,7 @@
       },
       {
         "year": 2025,
-        "citations": 1092
+        "citations": 1093
       },
       {
         "year": 2026,
@@ -577,7 +577,7 @@
       "author_id": "iprgtdgAAAAJ",
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iprgtdgAAAAJ&citpid=10"
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iprgtdgAAAAJ&citpid=13"
     }
   ],
   "serpapi_pagination": {
