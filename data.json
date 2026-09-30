@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6abb5e0788de92efad2b126e",
+    "id": "6abcacc959eb37ecde62bb56",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Ys73SgRiNWTL7mUtGPUvSh6MXYG9NGsP6kC0rHXUvCs/6abb5e0788de92efad2b126e.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Ys73SgRiNWTL7mUtGPUvSh6MXYG9NGsP6kC0rHXUvCs/6abb5e0788de92efad2b126e.md",
-    "created_at": "2026-09-29 06:43:19 UTC",
-    "processed_at": "2026-09-29 06:43:19 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VeJZ57tbrO1VSE4IfSXGvT8EeGPDg_ubArZr4Iq38t0/6abcacc959eb37ecde62bb56.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VeJZ57tbrO1VSE4IfSXGvT8EeGPDg_ubArZr4Iq38t0/6abcacc959eb37ecde62bb56.md",
+    "created_at": "2026-09-30 06:31:37 UTC",
+    "processed_at": "2026-09-30 06:31:37 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Ys73SgRiNWTL7mUtGPUvSh6MXYG9NGsP6kC0rHXUvCs/6abb5e0788de92efad2b126e.html",
-    "total_time_taken": 0.55
+    "raw_html_file": "https://serpapi.com/searches/VeJZ57tbrO1VSE4IfSXGvT8EeGPDg_ubArZr4Iq38t0/6abcacc959eb37ecde62bb56.html",
+    "total_time_taken": 0.59
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -530,8 +530,8 @@
       "link": "https://scholar.google.com/citations?user=OQYeShEAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=OQYeShEAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "OQYeShEAAAAJ",
-      "affiliations": "STIE ASIA MALANG",
-      "email": "Verified email at stieasia.ac.id",
+      "affiliations": "Yamaguchi University",
+      "email": "Verified email at yamaguchi-u.ac.jp",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OQYeShEAAAAJ&citpid=4"
     },
     {
