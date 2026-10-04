@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac09deebf04d5a09d4eac2c",
+    "id": "6ac1f550054e5f0133c0c82e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/zh8Hyj-UrgKybL6xn5uv-MSwUSM0gd9wCLdo9U90Xq0/6ac09deebf04d5a09d4eac2c.json",
-    "markdown_endpoint": "https://serpapi.com/searches/zh8Hyj-UrgKybL6xn5uv-MSwUSM0gd9wCLdo9U90Xq0/6ac09deebf04d5a09d4eac2c.md",
-    "created_at": "2026-10-03 06:17:18 UTC",
-    "processed_at": "2026-10-03 06:17:18 UTC",
+    "json_endpoint": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.md",
+    "created_at": "2026-10-04 06:42:24 UTC",
+    "processed_at": "2026-10-04 06:42:24 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/zh8Hyj-UrgKybL6xn5uv-MSwUSM0gd9wCLdo9U90Xq0/6ac09deebf04d5a09d4eac2c.html",
-    "total_time_taken": 1.66
+    "raw_html_file": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.html",
+    "total_time_taken": 1.74
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1146,
+        "value": 1147,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 221,
+        "value": 222,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -150,7 +150,7 @@
       "authors": "PR Andarsari, J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 59-65, 2018",
       "cited_by": {
-        "value": 193,
+        "value": 194,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453168640401033223",
         "serpapi_link": "https://serpapi.com/search.json?cites=16453168640401033223&engine=google_scholar&hl=en",
         "cites_id": "16453168640401033223"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8220,
-          "since_2021": 6521
+          "all": 8229,
+          "since_2021": 6530
         }
       },
       {
@@ -382,7 +382,7 @@
       },
       {
         "year": 2023,
-        "citations": 1502
+        "citations": 1503
       },
       {
         "year": 2024,
@@ -390,11 +390,11 @@
       },
       {
         "year": 2025,
-        "citations": 1095
+        "citations": 1096
       },
       {
         "year": 2026,
-        "citations": 595
+        "citations": 602
       }
     ]
   },
