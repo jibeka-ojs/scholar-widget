@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac1f550054e5f0133c0c82e",
+    "id": "6ac3479fd23ff82822a1717c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.json",
-    "markdown_endpoint": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.md",
-    "created_at": "2026-10-04 06:42:24 UTC",
-    "processed_at": "2026-10-04 06:42:24 UTC",
+    "json_endpoint": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.md",
+    "created_at": "2026-10-05 06:45:51 UTC",
+    "processed_at": "2026-10-05 06:45:51 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/NCMnP_3FQsNvVfzIGwobo2FgmISZ3uxk6jtnpaofUo8/6ac1f550054e5f0133c0c82e.html",
-    "total_time_taken": 1.74
+    "raw_html_file": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.html",
+    "total_time_taken": 0.87
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -304,7 +304,7 @@
       "authors": "Z Muchlas, AR Alamsyah",
       "publication": "Jurnal Jibeka 9 (1), 76-86, 2015",
       "cited_by": {
-        "value": 107,
+        "value": 108,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5314921437463266884",
         "serpapi_link": "https://serpapi.com/search.json?cites=5314921437463266884&engine=google_scholar&hl=en",
         "cites_id": "5314921437463266884"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8229,
-          "since_2021": 6530
+          "all": 8234,
+          "since_2021": 6535
         }
       },
       {
@@ -378,7 +378,7 @@
       },
       {
         "year": 2022,
-        "citations": 1236
+        "citations": 1237
       },
       {
         "year": 2023,
@@ -386,7 +386,7 @@
       },
       {
         "year": 2024,
-        "citations": 1221
+        "citations": 1220
       },
       {
         "year": 2025,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 602
+        "citations": 607
       }
     ]
   },
