@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac3479fd23ff82822a1717c",
+    "id": "6ac4a2263d06ead4030cba15",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.json",
-    "markdown_endpoint": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.md",
-    "created_at": "2026-10-05 06:45:51 UTC",
-    "processed_at": "2026-10-05 06:45:51 UTC",
+    "json_endpoint": "https://serpapi.com/searches/z-ljPwlMsABUC494WMPhSeK7O-DA1RjgYz9AS2xbnMk/6ac4a2263d06ead4030cba15.json",
+    "markdown_endpoint": "https://serpapi.com/searches/z-ljPwlMsABUC494WMPhSeK7O-DA1RjgYz9AS2xbnMk/6ac4a2263d06ead4030cba15.md",
+    "created_at": "2026-10-06 07:24:22 UTC",
+    "processed_at": "2026-10-06 07:24:22 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/o8bO1d1ilKnKTnxPmViqQEMSJAcTgzUSAUAx7HyunL0/6ac3479fd23ff82822a1717c.html",
-    "total_time_taken": 0.87
+    "raw_html_file": "https://serpapi.com/searches/z-ljPwlMsABUC494WMPhSeK7O-DA1RjgYz9AS2xbnMk/6ac4a2263d06ead4030cba15.html",
+    "total_time_taken": 1.12
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -108,7 +108,7 @@
       "authors": "A Isvandiari, B Al Idris",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 17-22, 2018",
       "cited_by": {
-        "value": 244,
+        "value": 245,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5813500040503885975",
         "serpapi_link": "https://serpapi.com/search.json?cites=5813500040503885975&engine=google_scholar&hl=en",
         "cites_id": "5813500040503885975"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8234,
-          "since_2021": 6535
+          "all": 8236,
+          "since_2021": 6537
         }
       },
       {
@@ -350,7 +350,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 38
+        "citations": 37
       },
       {
         "year": 2016,
@@ -358,11 +358,11 @@
       },
       {
         "year": 2017,
-        "citations": 132
+        "citations": 131
       },
       {
         "year": 2018,
-        "citations": 224
+        "citations": 225
       },
       {
         "year": 2019,
@@ -370,7 +370,7 @@
       },
       {
         "year": 2020,
-        "citations": 611
+        "citations": 612
       },
       {
         "year": 2021,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 607
+        "citations": 609
       }
     ]
   },
