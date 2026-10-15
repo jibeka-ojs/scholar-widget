@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6acf19f90f830dceb03de083",
+    "id": "6ad0682fb77a0ad271a55e25",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/0DfkvTipEyRBTOvCkorxwIUFvsof4yL4426BA4tvHrE/6acf19f90f830dceb03de083.json",
-    "markdown_endpoint": "https://serpapi.com/searches/0DfkvTipEyRBTOvCkorxwIUFvsof4yL4426BA4tvHrE/6acf19f90f830dceb03de083.md",
-    "created_at": "2026-10-14 05:58:17 UTC",
-    "processed_at": "2026-10-14 05:58:17 UTC",
+    "json_endpoint": "https://serpapi.com/searches/LIYQ90ioDCDhwY3O2b0eNxKYbTr5GfLCiQ5_0Uy4GQ0/6ad0682fb77a0ad271a55e25.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LIYQ90ioDCDhwY3O2b0eNxKYbTr5GfLCiQ5_0Uy4GQ0/6ad0682fb77a0ad271a55e25.md",
+    "created_at": "2026-10-15 05:44:15 UTC",
+    "processed_at": "2026-10-15 05:44:15 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/0DfkvTipEyRBTOvCkorxwIUFvsof4yL4426BA4tvHrE/6acf19f90f830dceb03de083.html",
-    "total_time_taken": 5.74
+    "raw_html_file": "https://serpapi.com/searches/LIYQ90ioDCDhwY3O2b0eNxKYbTr5GfLCiQ5_0Uy4GQ0/6ad0682fb77a0ad271a55e25.html",
+    "total_time_taken": 1.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1152,
+        "value": 1151,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 221,
+        "value": 220,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -164,7 +164,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 180,
+        "value": 179,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8254,
-          "since_2021": 6554
+          "all": 8253,
+          "since_2021": 6553
         }
       },
       {
@@ -374,27 +374,27 @@
       },
       {
         "year": 2021,
-        "citations": 853
+        "citations": 852
       },
       {
         "year": 2022,
-        "citations": 1233
+        "citations": 1232
       },
       {
         "year": 2023,
-        "citations": 1503
+        "citations": 1505
       },
       {
         "year": 2024,
-        "citations": 1224
+        "citations": 1223
       },
       {
         "year": 2025,
-        "citations": 1097
+        "citations": 1096
       },
       {
         "year": 2026,
-        "citations": 623
+        "citations": 624
       }
     ]
   },
