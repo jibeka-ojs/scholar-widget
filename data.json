@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ad852e331aafefcd90e6fe3",
+    "id": "6ad9a53aeb46ef03d6d81c16",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/whcyi6ntyZ4xMnAMhsCv-XYqnJozZ729_f-omRcJTi0/6ad852e331aafefcd90e6fe3.json",
-    "markdown_endpoint": "https://serpapi.com/searches/whcyi6ntyZ4xMnAMhsCv-XYqnJozZ729_f-omRcJTi0/6ad852e331aafefcd90e6fe3.md",
-    "created_at": "2026-10-21 05:51:31 UTC",
-    "processed_at": "2026-10-21 05:51:31 UTC",
+    "json_endpoint": "https://serpapi.com/searches/pG4xjtmrtKOlcs64s3og_9z7q_zDCcV5QQUt-OeBeus/6ad9a53aeb46ef03d6d81c16.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pG4xjtmrtKOlcs64s3og_9z7q_zDCcV5QQUt-OeBeus/6ad9a53aeb46ef03d6d81c16.md",
+    "created_at": "2026-10-22 05:55:06 UTC",
+    "processed_at": "2026-10-22 05:55:06 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/whcyi6ntyZ4xMnAMhsCv-XYqnJozZ729_f-omRcJTi0/6ad852e331aafefcd90e6fe3.html",
-    "total_time_taken": 0.89
+    "raw_html_file": "https://serpapi.com/searches/pG4xjtmrtKOlcs64s3og_9z7q_zDCcV5QQUt-OeBeus/6ad9a53aeb46ef03d6d81c16.html",
+    "total_time_taken": 9.26
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -178,7 +178,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 11 (1), 64-70, 2017",
       "cited_by": {
-        "value": 173,
+        "value": 174,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4137664591509643123",
         "serpapi_link": "https://serpapi.com/search.json?cites=4137664591509643123&engine=google_scholar&hl=en",
         "cites_id": "4137664591509643123"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8275,
-          "since_2021": 6577
+          "all": 8279,
+          "since_2021": 6581
         }
       },
       {
@@ -350,7 +350,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 37
+        "citations": 38
       },
       {
         "year": 2016,
@@ -362,7 +362,7 @@
       },
       {
         "year": 2018,
-        "citations": 225
+        "citations": 224
       },
       {
         "year": 2019,
@@ -370,19 +370,19 @@
       },
       {
         "year": 2020,
-        "citations": 611
+        "citations": 612
       },
       {
         "year": 2021,
-        "citations": 852
+        "citations": 853
       },
       {
         "year": 2022,
-        "citations": 1237
+        "citations": 1238
       },
       {
         "year": 2023,
-        "citations": 1509
+        "citations": 1510
       },
       {
         "year": 2024,
@@ -390,11 +390,11 @@
       },
       {
         "year": 2025,
-        "citations": 1099
+        "citations": 1098
       },
       {
         "year": 2026,
-        "citations": 635
+        "citations": 637
       }
     ]
   },
