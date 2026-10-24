@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6adaf612d20e165926d2b1b1",
+    "id": "6adc43d5236d4cc53f7fc0bf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/jvsp8i7N7jBfqZ2VH6Jg9Ky7QPnt-9tmf2QNNMoAeBo/6adaf612d20e165926d2b1b1.json",
-    "markdown_endpoint": "https://serpapi.com/searches/jvsp8i7N7jBfqZ2VH6Jg9Ky7QPnt-9tmf2QNNMoAeBo/6adaf612d20e165926d2b1b1.md",
-    "created_at": "2026-10-23 05:52:18 UTC",
-    "processed_at": "2026-10-23 05:52:18 UTC",
+    "json_endpoint": "https://serpapi.com/searches/tb_RHnJyLp-LZfJYoNFME0swunzD8-b5Cxl46TAHaTY/6adc43d5236d4cc53f7fc0bf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tb_RHnJyLp-LZfJYoNFME0swunzD8-b5Cxl46TAHaTY/6adc43d5236d4cc53f7fc0bf.md",
+    "created_at": "2026-10-24 05:36:21 UTC",
+    "processed_at": "2026-10-24 05:36:21 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/jvsp8i7N7jBfqZ2VH6Jg9Ky7QPnt-9tmf2QNNMoAeBo/6adaf612d20e165926d2b1b1.html",
-    "total_time_taken": 1.01
+    "raw_html_file": "https://serpapi.com/searches/tb_RHnJyLp-LZfJYoNFME0swunzD8-b5Cxl46TAHaTY/6adc43d5236d4cc53f7fc0bf.html",
+    "total_time_taken": 5.56
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -80,7 +80,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 270,
+        "value": 271,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 269,
+        "value": 268,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -262,7 +262,7 @@
       "authors": "D Sudaryanti, A Dinar",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 13 (2), 101-110, 2019",
       "cited_by": {
-        "value": 125,
+        "value": 126,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494845482582586530",
         "serpapi_link": "https://serpapi.com/search.json?cites=17494845482582586530&engine=google_scholar&hl=en",
         "cites_id": "17494845482582586530"
@@ -276,7 +276,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 122,
+        "value": 123,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8279,
-          "since_2021": 6581
+          "all": 8281,
+          "since_2021": 6582
         }
       },
       {
@@ -374,11 +374,11 @@
       },
       {
         "year": 2021,
-        "citations": 853
+        "citations": 854
       },
       {
         "year": 2022,
-        "citations": 1238
+        "citations": 1236
       },
       {
         "year": 2023,
@@ -386,15 +386,15 @@
       },
       {
         "year": 2024,
-        "citations": 1224
+        "citations": 1222
       },
       {
         "year": 2025,
-        "citations": 1098
+        "citations": 1099
       },
       {
         "year": 2026,
-        "citations": 637
+        "citations": 640
       }
     ]
   },
