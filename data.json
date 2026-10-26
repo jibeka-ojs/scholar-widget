@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6add98cffcf0d934bb74e414",
+    "id": "6adeeb246aded6009a67c10c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/HNJJx7kxkm0_7sp0lnFVqZ4yvXkr0EQ2XuW3bEg3Lqg/6add98cffcf0d934bb74e414.json",
-    "markdown_endpoint": "https://serpapi.com/searches/HNJJx7kxkm0_7sp0lnFVqZ4yvXkr0EQ2XuW3bEg3Lqg/6add98cffcf0d934bb74e414.md",
-    "created_at": "2026-10-25 05:51:11 UTC",
-    "processed_at": "2026-10-25 05:51:11 UTC",
+    "json_endpoint": "https://serpapi.com/searches/bTQNWUWp8W7T9qpvqrloWKX5vAEqWWxXf_4j885uSUQ/6adeeb246aded6009a67c10c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bTQNWUWp8W7T9qpvqrloWKX5vAEqWWxXf_4j885uSUQ/6adeeb246aded6009a67c10c.md",
+    "created_at": "2026-10-26 05:54:44 UTC",
+    "processed_at": "2026-10-26 05:54:44 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/HNJJx7kxkm0_7sp0lnFVqZ4yvXkr0EQ2XuW3bEg3Lqg/6add98cffcf0d934bb74e414.html",
-    "total_time_taken": 0.54
+    "raw_html_file": "https://serpapi.com/searches/bTQNWUWp8W7T9qpvqrloWKX5vAEqWWxXf_4j885uSUQ/6adeeb246aded6009a67c10c.html",
+    "total_time_taken": 0.95
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 269,
+        "value": 270,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8287,
-          "since_2021": 6590
+          "all": 8292,
+          "since_2021": 6593
         }
       },
       {
@@ -366,7 +366,7 @@
       },
       {
         "year": 2019,
-        "citations": 433
+        "citations": 434
       },
       {
         "year": 2020,
@@ -374,7 +374,7 @@
       },
       {
         "year": 2021,
-        "citations": 854
+        "citations": 855
       },
       {
         "year": 2022,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 644
+        "citations": 646
       }
     ]
   },
