@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae43f8dafaa67f42b2fdf52",
+    "id": "6ae58fb269ae7aafceeca844",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VjAtBEImmNql3hjuxR_IA3ba0V_iaCYR5MMcSmMwqSU/6ae43f8dafaa67f42b2fdf52.json",
-    "markdown_endpoint": "https://serpapi.com/searches/VjAtBEImmNql3hjuxR_IA3ba0V_iaCYR5MMcSmMwqSU/6ae43f8dafaa67f42b2fdf52.md",
-    "created_at": "2026-10-30 06:56:13 UTC",
-    "processed_at": "2026-10-30 06:56:13 UTC",
+    "json_endpoint": "https://serpapi.com/searches/lUzq1xQQ0w-3dYqo7p4G42BQDUhxrOO-eOGGJtunY0s/6ae58fb269ae7aafceeca844.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lUzq1xQQ0w-3dYqo7p4G42BQDUhxrOO-eOGGJtunY0s/6ae58fb269ae7aafceeca844.md",
+    "created_at": "2026-10-31 06:50:26 UTC",
+    "processed_at": "2026-10-31 06:50:26 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VjAtBEImmNql3hjuxR_IA3ba0V_iaCYR5MMcSmMwqSU/6ae43f8dafaa67f42b2fdf52.html",
-    "total_time_taken": 1.88
+    "raw_html_file": "https://serpapi.com/searches/lUzq1xQQ0w-3dYqo7p4G42BQDUhxrOO-eOGGJtunY0s/6ae58fb269ae7aafceeca844.html",
+    "total_time_taken": 0.79
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1154,
+        "value": 1155,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 527,
+        "value": 526,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -186,6 +186,20 @@
       "year": "2017"
     },
     {
+      "title": "Tipe Kepribadian Dalam Personal Finance",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:JV2RwH3_ST0C",
+      "citation_id": "dRFYT7EAAAAJ:JV2RwH3_ST0C",
+      "authors": "PG Sina",
+      "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
+      "cited_by": {
+        "value": 154,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
+        "cites_id": "9801215156894747969"
+      },
+      "year": "2014"
+    },
+    {
       "title": "Membuat Segmentasi Berdasarkan Life Style (Gaya Hidup)",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:4OULZ7Gr8RgC",
       "citation_id": "dRFYT7EAAAAJ:4OULZ7Gr8RgC",
@@ -198,20 +212,6 @@
         "cites_id": "17072231077206912035"
       },
       "year": "2013"
-    },
-    {
-      "title": "Tipe Kepribadian Dalam Personal Finance",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:JV2RwH3_ST0C",
-      "citation_id": "dRFYT7EAAAAJ:JV2RwH3_ST0C",
-      "authors": "PG Sina",
-      "publication": "Jurnal JIBEKA 8 (1), 54-59, 2014",
-      "cited_by": {
-        "value": 153,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9801215156894747969",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9801215156894747969&engine=google_scholar&hl=en",
-        "cites_id": "9801215156894747969"
-      },
-      "year": "2014"
     },
     {
       "title": "Analisis pengaruh work-life balance dan pengembangan karir terhadap kepuasan kerja karyawan PT. Telkomsel, TBK Branch Malang",
@@ -248,7 +248,7 @@
       "authors": "ED Santoso, N Larasati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 28-36, 2019",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3864259127795358248",
         "serpapi_link": "https://serpapi.com/search.json?cites=3864259127795358248&engine=google_scholar&hl=en",
         "cites_id": "3864259127795358248"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8293,
-          "since_2021": 6593
+          "all": 8300,
+          "since_2021": 6601
         }
       },
       {
@@ -358,11 +358,11 @@
       },
       {
         "year": 2017,
-        "citations": 131
+        "citations": 132
       },
       {
         "year": 2018,
-        "citations": 225
+        "citations": 224
       },
       {
         "year": 2019,
@@ -370,15 +370,15 @@
       },
       {
         "year": 2020,
-        "citations": 612
+        "citations": 611
       },
       {
         "year": 2021,
-        "citations": 855
+        "citations": 856
       },
       {
         "year": 2022,
-        "citations": 1239
+        "citations": 1240
       },
       {
         "year": 2023,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 646
+        "citations": 652
       }
     ]
   },
