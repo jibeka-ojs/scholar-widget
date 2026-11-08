@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6aeecbe06aded60a261bcbb8",
+    "id": "6af01f1e71c5421bb4d18799",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Os4fGAjDljllvomwpGfBGj4Mu27xoR7Y4OjZ-xR5To8/6aeecbe06aded60a261bcbb8.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Os4fGAjDljllvomwpGfBGj4Mu27xoR7Y4OjZ-xR5To8/6aeecbe06aded60a261bcbb8.md",
-    "created_at": "2026-11-07 06:57:36 UTC",
-    "processed_at": "2026-11-07 06:57:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.md",
+    "created_at": "2026-11-08 07:05:02 UTC",
+    "processed_at": "2026-11-08 07:05:02 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Os4fGAjDljllvomwpGfBGj4Mu27xoR7Y4OjZ-xR5To8/6aeecbe06aded60a261bcbb8.html",
-    "total_time_taken": 0.53
+    "raw_html_file": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.html",
+    "total_time_taken": 1.38
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 270,
+        "value": 269,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8320,
-          "since_2021": 6616
+          "all": 8324,
+          "since_2021": 6620
         }
       },
       {
@@ -378,15 +378,15 @@
       },
       {
         "year": 2022,
-        "citations": 1238
+        "citations": 1239
       },
       {
         "year": 2023,
-        "citations": 1512
+        "citations": 1511
       },
       {
         "year": 2024,
-        "citations": 1218
+        "citations": 1219
       },
       {
         "year": 2025,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 672
+        "citations": 675
       }
     ]
   },
@@ -499,15 +499,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
-      "name": "Ahmad Nizar Yogatama",
-      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ATYgw1cAAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
-    },
-    {
       "name": "Mohammad Bukhori",
       "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
@@ -515,6 +506,15 @@
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
+    },
+    {
+      "name": "Ahmad Nizar Yogatama",
+      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ATYgw1cAAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
     },
     {
       "name": "Ike Kusdyah Rachmawati",
