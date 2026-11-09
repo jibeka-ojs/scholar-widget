@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af01f1e71c5421bb4d18799",
+    "id": "6af17ad3eabc4d0508605b19",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.json",
-    "markdown_endpoint": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.md",
-    "created_at": "2026-11-08 07:05:02 UTC",
-    "processed_at": "2026-11-08 07:05:02 UTC",
+    "json_endpoint": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.md",
+    "created_at": "2026-11-09 07:48:35 UTC",
+    "processed_at": "2026-11-09 07:48:35 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/FSiQpKci4bBgYn6Nn-FAjK0f3ME49J8sFyzneRdUK1E/6af01f1e71c5421bb4d18799.html",
-    "total_time_taken": 1.38
+    "raw_html_file": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.html",
+    "total_time_taken": 2.87
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1156,
+        "value": 1155,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -122,7 +122,7 @@
       "authors": "D Iskandar",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 23-31, 2018",
       "cited_by": {
-        "value": 220,
+        "value": 221,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14340702042392412358",
         "serpapi_link": "https://serpapi.com/search.json?cites=14340702042392412358&engine=google_scholar&hl=en",
         "cites_id": "14340702042392412358"
@@ -164,7 +164,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 180,
+        "value": 181,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8324,
-          "since_2021": 6620
+          "all": 8329,
+          "since_2021": 6625
         }
       },
       {
@@ -350,7 +350,7 @@
     "graph": [
       {
         "year": 2015,
-        "citations": 38
+        "citations": 37
       },
       {
         "year": 2016,
@@ -362,7 +362,7 @@
       },
       {
         "year": 2018,
-        "citations": 223
+        "citations": 224
       },
       {
         "year": 2019,
@@ -374,7 +374,7 @@
       },
       {
         "year": 2021,
-        "citations": 856
+        "citations": 857
       },
       {
         "year": 2022,
@@ -382,7 +382,7 @@
       },
       {
         "year": 2023,
-        "citations": 1511
+        "citations": 1512
       },
       {
         "year": 2024,
@@ -390,11 +390,11 @@
       },
       {
         "year": 2025,
-        "citations": 1099
+        "citations": 1100
       },
       {
         "year": 2026,
-        "citations": 675
+        "citations": 677
       }
     ]
   },
@@ -499,15 +499,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
-      "name": "Mohammad Bukhori",
-      "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "HCFgmC8AAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
-    },
-    {
       "name": "Ahmad Nizar Yogatama",
       "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
@@ -515,6 +506,15 @@
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
+    },
+    {
+      "name": "Mohammad Bukhori",
+      "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "HCFgmC8AAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
     },
     {
       "name": "Ike Kusdyah Rachmawati",
