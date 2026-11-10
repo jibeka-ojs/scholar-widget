@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af17ad3eabc4d0508605b19",
+    "id": "6af2d156dea40024651fe8e3",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.json",
-    "markdown_endpoint": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.md",
-    "created_at": "2026-11-09 07:48:35 UTC",
-    "processed_at": "2026-11-09 07:48:35 UTC",
+    "json_endpoint": "https://serpapi.com/searches/rHZ9u60iRlwyzf15H6A-RCfc6iHV2IAssAwNWVGtZ4E/6af2d156dea40024651fe8e3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rHZ9u60iRlwyzf15H6A-RCfc6iHV2IAssAwNWVGtZ4E/6af2d156dea40024651fe8e3.md",
+    "created_at": "2026-11-10 08:09:58 UTC",
+    "processed_at": "2026-11-10 08:09:58 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/2QPg-cfrt2DihgJk-enQ0tUBqA5FlLBuZ6z4dCEDUs0/6af17ad3eabc4d0508605b19.html",
-    "total_time_taken": 2.87
+    "raw_html_file": "https://serpapi.com/searches/rHZ9u60iRlwyzf15H6A-RCfc6iHV2IAssAwNWVGtZ4E/6af2d156dea40024651fe8e3.html",
+    "total_time_taken": 0.74
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -80,7 +80,7 @@
       "authors": "MN Ningtyas",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 13 (1), 20-27, 2019",
       "cited_by": {
-        "value": 273,
+        "value": 274,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670938502786925074",
         "serpapi_link": "https://serpapi.com/search.json?cites=17670938502786925074&engine=google_scholar&hl=en",
         "cites_id": "17670938502786925074"
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 269,
+        "value": 271,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -192,7 +192,7 @@
       "authors": "AS Susanto",
       "publication": "Jurnal Jibeka 7 (2), 1-6, 2013",
       "cited_by": {
-        "value": 155,
+        "value": 156,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072231077206912035",
         "serpapi_link": "https://serpapi.com/search.json?cites=17072231077206912035&engine=google_scholar&hl=en",
         "cites_id": "17072231077206912035"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8329,
-          "since_2021": 6625
+          "all": 8338,
+          "since_2021": 6633
         }
       },
       {
@@ -342,8 +342,8 @@
       },
       {
         "i10_index": {
-          "all": 116,
-          "since_2021": 99
+          "all": 117,
+          "since_2021": 100
         }
       }
     ],
@@ -366,7 +366,7 @@
       },
       {
         "year": 2019,
-        "citations": 435
+        "citations": 436
       },
       {
         "year": 2020,
@@ -374,11 +374,11 @@
       },
       {
         "year": 2021,
-        "citations": 857
+        "citations": 856
       },
       {
         "year": 2022,
-        "citations": 1239
+        "citations": 1240
       },
       {
         "year": 2023,
@@ -386,15 +386,15 @@
       },
       {
         "year": 2024,
-        "citations": 1219
+        "citations": 1222
       },
       {
         "year": 2025,
-        "citations": 1100
+        "citations": 1101
       },
       {
         "year": 2026,
-        "citations": 677
+        "citations": 681
       }
     ]
   },
