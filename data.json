@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6af80dd5ce7719c2268e5130",
+    "id": "6af96261f5b6980a4318f755",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/BGze-WjI_Z3Y3oND0xETRHURUu_cMHKZE8u5fffdU8s/6af80dd5ce7719c2268e5130.json",
-    "markdown_endpoint": "https://serpapi.com/searches/BGze-WjI_Z3Y3oND0xETRHURUu_cMHKZE8u5fffdU8s/6af80dd5ce7719c2268e5130.md",
-    "created_at": "2026-11-14 07:29:25 UTC",
-    "processed_at": "2026-11-14 07:29:25 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VEnCEx-i7cQ_NGWeY_OvKgtEiTKL5OS2NAieWeK-wVU/6af96261f5b6980a4318f755.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VEnCEx-i7cQ_NGWeY_OvKgtEiTKL5OS2NAieWeK-wVU/6af96261f5b6980a4318f755.md",
+    "created_at": "2026-11-15 07:42:25 UTC",
+    "processed_at": "2026-11-15 07:42:25 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/BGze-WjI_Z3Y3oND0xETRHURUu_cMHKZE8u5fffdU8s/6af80dd5ce7719c2268e5130.html",
-    "total_time_taken": 1.21
+    "raw_html_file": "https://serpapi.com/searches/VEnCEx-i7cQ_NGWeY_OvKgtEiTKL5OS2NAieWeK-wVU/6af96261f5b6980a4318f755.html",
+    "total_time_taken": 2.69
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1157,
+        "value": 1158,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 271,
+        "value": 270,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -164,7 +164,7 @@
       "authors": "R Irawati",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 12 (1), 74-84, 2018",
       "cited_by": {
-        "value": 181,
+        "value": 180,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327503241928996900",
         "serpapi_link": "https://serpapi.com/search.json?cites=16327503241928996900&engine=google_scholar&hl=en",
         "cites_id": "16327503241928996900"
@@ -276,7 +276,7 @@
       "authors": "A Isvandiari, L Fuadah",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 1-8, 2017",
       "cited_by": {
-        "value": 124,
+        "value": 125,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724515366181962796",
         "serpapi_link": "https://serpapi.com/search.json?cites=5724515366181962796&engine=google_scholar&hl=en",
         "cites_id": "5724515366181962796"
@@ -304,7 +304,7 @@
       "authors": "YT Fahma, ND Setyaningsih",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 15 (2), 200-216, 2021",
       "cited_by": {
-        "value": 108,
+        "value": 109,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14787293798724750525",
         "serpapi_link": "https://serpapi.com/search.json?cites=14787293798724750525&engine=google_scholar&hl=en",
         "cites_id": "14787293798724750525"
@@ -330,13 +330,13 @@
     "table": [
       {
         "citations": {
-          "all": 8349,
-          "since_2021": 6645
+          "all": 8355,
+          "since_2021": 6651
         }
       },
       {
         "h_index": {
-          "all": 42,
+          "all": 43,
           "since_2021": 39
         }
       },
@@ -382,7 +382,7 @@
       },
       {
         "year": 2023,
-        "citations": 1514
+        "citations": 1513
       },
       {
         "year": 2024,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 690
+        "citations": 697
       }
     ]
   },
