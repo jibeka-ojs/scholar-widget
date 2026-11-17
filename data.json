@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6afab558e6dcec6faa795d30",
+    "id": "6afc16ebe3567a92e3b54352",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/37GjljKGxEK5ZGdAvRu_k2snG1drkMzMd_w1BvUeFf0/6afab558e6dcec6faa795d30.json",
-    "markdown_endpoint": "https://serpapi.com/searches/37GjljKGxEK5ZGdAvRu_k2snG1drkMzMd_w1BvUeFf0/6afab558e6dcec6faa795d30.md",
-    "created_at": "2026-11-16 07:48:40 UTC",
-    "processed_at": "2026-11-16 07:48:40 UTC",
+    "json_endpoint": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.md",
+    "created_at": "2026-11-17 08:57:15 UTC",
+    "processed_at": "2026-11-17 08:57:15 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/37GjljKGxEK5ZGdAvRu_k2snG1drkMzMd_w1BvUeFf0/6afab558e6dcec6faa795d30.html",
-    "total_time_taken": 1.21
+    "raw_html_file": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.html",
+    "total_time_taken": 2.56
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -290,7 +290,7 @@
       "authors": "R Robiyanto, I Nafiah, H Harijono, K Inggarwati",
       "publication": "Jurnal Ilmiah Bisnis Dan Ekonomi Asia 14 (1), 46-57, 2020",
       "cited_by": {
-        "value": 114,
+        "value": 115,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353733042313564197",
         "serpapi_link": "https://serpapi.com/search.json?cites=2353733042313564197&engine=google_scholar&hl=en",
         "cites_id": "2353733042313564197"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8355,
-          "since_2021": 6651
+          "all": 8362,
+          "since_2021": 6657
         }
       },
       {
@@ -342,8 +342,8 @@
       },
       {
         "i10_index": {
-          "all": 118,
-          "since_2021": 101
+          "all": 119,
+          "since_2021": 102
         }
       }
     ],
@@ -362,7 +362,7 @@
       },
       {
         "year": 2018,
-        "citations": 223
+        "citations": 224
       },
       {
         "year": 2019,
@@ -374,11 +374,11 @@
       },
       {
         "year": 2021,
-        "citations": 857
+        "citations": 856
       },
       {
         "year": 2022,
-        "citations": 1239
+        "citations": 1241
       },
       {
         "year": 2023,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 697
+        "citations": 701
       }
     ]
   },
