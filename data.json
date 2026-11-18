@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6afc16ebe3567a92e3b54352",
+    "id": "6afd604c34b8a55c071c29fe",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.json",
-    "markdown_endpoint": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.md",
-    "created_at": "2026-11-17 08:57:15 UTC",
-    "processed_at": "2026-11-17 08:57:15 UTC",
+    "json_endpoint": "https://serpapi.com/searches/UekP5CmB-saHVF725N4e6k8tNDAwDqL_FduItWjTqz0/6afd604c34b8a55c071c29fe.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UekP5CmB-saHVF725N4e6k8tNDAwDqL_FduItWjTqz0/6afd604c34b8a55c071c29fe.md",
+    "created_at": "2026-11-18 08:22:36 UTC",
+    "processed_at": "2026-11-18 08:22:36 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/2ZqeA-aHZNUfx_0MgU7JhmDqo1TInyRROrqoNSnZbGs/6afc16ebe3567a92e3b54352.html",
-    "total_time_taken": 2.56
+    "raw_html_file": "https://serpapi.com/searches/UekP5CmB-saHVF725N4e6k8tNDAwDqL_FduItWjTqz0/6afd604c34b8a55c071c29fe.html",
+    "total_time_taken": 3.3
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 270,
+        "value": 271,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8362,
-          "since_2021": 6657
+          "all": 8365,
+          "since_2021": 6661
         }
       },
       {
@@ -362,7 +362,7 @@
       },
       {
         "year": 2018,
-        "citations": 224
+        "citations": 223
       },
       {
         "year": 2019,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 701
+        "citations": 705
       }
     ]
   },
@@ -499,15 +499,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JRTUapMAAAAJ&citpid=6"
     },
     {
-      "name": "Ahmad Nizar Yogatama",
-      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "ATYgw1cAAAAJ",
-      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
-      "email": "Verified email at asia.ac.id",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
-    },
-    {
       "name": "Mohammad Bukhori",
       "link": "https://scholar.google.com/citations?user=HCFgmC8AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=HCFgmC8AAAAJ&engine=google_scholar_author&hl=en",
@@ -515,6 +506,15 @@
       "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
       "email": "Verified email at asia.ac.id",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HCFgmC8AAAAJ&citpid=1"
+    },
+    {
+      "name": "Ahmad Nizar Yogatama",
+      "link": "https://scholar.google.com/citations?user=ATYgw1cAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ATYgw1cAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ATYgw1cAAAAJ",
+      "affiliations": "Institut Teknologi dan Bisnis Asia Malang",
+      "email": "Verified email at asia.ac.id",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ATYgw1cAAAAJ&citpid=1"
     },
     {
       "name": "Ike Kusdyah Rachmawati",
