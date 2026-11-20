@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6afeb478d114df4dba20666f",
+    "id": "6b00021528b1119730bb1313",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/QckpitI6cRdPs8LguDP7P-3odca4PReD9pcGPLJ76yo/6afeb478d114df4dba20666f.json",
-    "markdown_endpoint": "https://serpapi.com/searches/QckpitI6cRdPs8LguDP7P-3odca4PReD9pcGPLJ76yo/6afeb478d114df4dba20666f.md",
-    "created_at": "2026-11-19 08:34:00 UTC",
-    "processed_at": "2026-11-19 08:34:00 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Dgw4q6XulSLDpZoUm8wb7EPVsbxrUE_CMKOASFRdpUA/6b00021528b1119730bb1313.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Dgw4q6XulSLDpZoUm8wb7EPVsbxrUE_CMKOASFRdpUA/6b00021528b1119730bb1313.md",
+    "created_at": "2026-11-20 08:17:25 UTC",
+    "processed_at": "2026-11-20 08:17:25 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/QckpitI6cRdPs8LguDP7P-3odca4PReD9pcGPLJ76yo/6afeb478d114df4dba20666f.html",
-    "total_time_taken": 0.89
+    "raw_html_file": "https://serpapi.com/searches/Dgw4q6XulSLDpZoUm8wb7EPVsbxrUE_CMKOASFRdpUA/6b00021528b1119730bb1313.html",
+    "total_time_taken": 3.07
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 529,
+        "value": 530,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -136,7 +136,7 @@
       "authors": "J Dura",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 10 (2), 26-32, 2016",
       "cited_by": {
-        "value": 215,
+        "value": 216,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631343842008790911",
         "serpapi_link": "https://serpapi.com/search.json?cites=1631343842008790911&engine=google_scholar&hl=en",
         "cites_id": "1631343842008790911"
@@ -312,26 +312,26 @@
       "year": "2021"
     },
     {
-      "title": "Faktor-faktor yang mempengaruhi kurs rupiah terhadap dolar amerika pasca krisis (2000-2010)",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "dRFYT7EAAAAJ:J_g5lzvAfSwC",
-      "authors": "Z Muchlas, AR Alamsyah",
-      "publication": "Jurnal Jibeka 9 (1), 76-86, 2015",
+      "title": "Penerapan Green Marketing Pada Bisnis Produk Kosmetik",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dRFYT7EAAAAJ&citation_for_view=dRFYT7EAAAAJ:blknAaTinKkC",
+      "citation_id": "dRFYT7EAAAAJ:blknAaTinKkC",
+      "authors": "RK Shaputra",
+      "publication": "Jurnal Jibeka 7 (3), 47-53, 2013",
       "cited_by": {
-        "value": 108,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5314921437463266884",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5314921437463266884&engine=google_scholar&hl=en",
-        "cites_id": "5314921437463266884"
+        "value": 109,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9852645422292531537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9852645422292531537&engine=google_scholar&hl=en",
+        "cites_id": "9852645422292531537"
       },
-      "year": "2015"
+      "year": "2013"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 8365,
-          "since_2021": 6661
+          "all": 8369,
+          "since_2021": 6663
         }
       },
       {
@@ -362,11 +362,11 @@
       },
       {
         "year": 2018,
-        "citations": 223
+        "citations": 224
       },
       {
         "year": 2019,
-        "citations": 436
+        "citations": 437
       },
       {
         "year": 2020,
@@ -378,7 +378,7 @@
       },
       {
         "year": 2022,
-        "citations": 1241
+        "citations": 1239
       },
       {
         "year": 2023,
@@ -386,11 +386,11 @@
       },
       {
         "year": 2024,
-        "citations": 1223
+        "citations": 1225
       },
       {
         "year": 2025,
-        "citations": 1101
+        "citations": 1103
       },
       {
         "year": 2026,
