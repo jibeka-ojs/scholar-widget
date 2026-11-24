@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b03fde52bcc24a7b7d5abc9",
+    "id": "6b056b0ac258c10242355d88",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/xyxvnSq4kxkuOtsHQQzHodv-JzJpVYXdegM2aHJKkIc/6b03fde52bcc24a7b7d5abc9.json",
-    "markdown_endpoint": "https://serpapi.com/searches/xyxvnSq4kxkuOtsHQQzHodv-JzJpVYXdegM2aHJKkIc/6b03fde52bcc24a7b7d5abc9.md",
-    "created_at": "2026-11-23 08:48:37 UTC",
-    "processed_at": "2026-11-23 08:48:37 UTC",
+    "json_endpoint": "https://serpapi.com/searches/6jjB_ySThEN3Qwhz3n0K50G106xSafpoV7iGxraJcx0/6b056b0ac258c10242355d88.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6jjB_ySThEN3Qwhz3n0K50G106xSafpoV7iGxraJcx0/6b056b0ac258c10242355d88.md",
+    "created_at": "2026-11-24 10:46:34 UTC",
+    "processed_at": "2026-11-24 10:46:34 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=dRFYT7EAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/xyxvnSq4kxkuOtsHQQzHodv-JzJpVYXdegM2aHJKkIc/6b03fde52bcc24a7b7d5abc9.html",
-    "total_time_taken": 0.83
+    "raw_html_file": "https://serpapi.com/searches/6jjB_ySThEN3Qwhz3n0K50G106xSafpoV7iGxraJcx0/6b056b0ac258c10242355d88.html",
+    "total_time_taken": 0.47
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -52,7 +52,7 @@
       "authors": "T Pradiani",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 46-53, 2017",
       "cited_by": {
-        "value": 1161,
+        "value": 1164,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465655679619943455",
         "serpapi_link": "https://serpapi.com/search.json?cites=12465655679619943455&engine=google_scholar&hl=en",
         "cites_id": "12465655679619943455"
@@ -66,7 +66,7 @@
       "authors": "H Sidanti",
       "publication": "Jurnal Jibeka 9 (1), 44-53, 2015",
       "cited_by": {
-        "value": 530,
+        "value": 531,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3437371042940607034",
         "serpapi_link": "https://serpapi.com/search.json?cites=3437371042940607034&engine=google_scholar&hl=en",
         "cites_id": "3437371042940607034"
@@ -94,7 +94,7 @@
       "authors": "N Zuhdiyaty, D Kaluge",
       "publication": "Jurnal Ilmiah Bisnis dan Ekonomi Asia 11 (2), 27-31, 2017",
       "cited_by": {
-        "value": 271,
+        "value": 270,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16485183269252268409,9484283313629547562",
         "serpapi_link": "https://serpapi.com/search.json?cites=16485183269252268409%2C9484283313629547562&engine=google_scholar&hl=en",
         "cites_id": "16485183269252268409,9484283313629547562"
@@ -330,8 +330,8 @@
     "table": [
       {
         "citations": {
-          "all": 8376,
-          "since_2021": 6670
+          "all": 8386,
+          "since_2021": 6679
         }
       },
       {
@@ -362,7 +362,7 @@
       },
       {
         "year": 2018,
-        "citations": 224
+        "citations": 225
       },
       {
         "year": 2019,
@@ -394,7 +394,7 @@
       },
       {
         "year": 2026,
-        "citations": 711
+        "citations": 719
       }
     ]
   },
